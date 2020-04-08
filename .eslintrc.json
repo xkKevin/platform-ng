@@ -1,0 +1,11 @@
+{
+  "extends": [
+    "eslint:recommended",
+    "plugin:vue/recommended",
+    "plugin:prettier/recommended"
+  ],
+  "rules": {
+    "no-var": "error",
+    "array-callback-return": "error"
+  }
+}

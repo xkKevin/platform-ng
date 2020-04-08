@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack",
-    "lint": "eslint --ext .js,.vue src"
+    "lint": "eslint --ext .js,.vue src --fix --max-warnings 0"
   },
   "repository": {
     "type": "git",
