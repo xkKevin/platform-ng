@@ -23,10 +23,10 @@ Thanks for contributing to Zhijiang Visual Analytic Platform NG! Here are some g
 
 > 1. Does this MR affect users? Which part will be affected?
 > 2. Changelog.
-> 3. Does this MR contains potential break change of other risk?
+> 3. Does this MR contains potential breaking change of other risk?
 
 
-## Self Check before Merge (Lint)
+## Self Check before Merge
 
 For more detais: [development guide](../../docs/development-guide.md).
 
