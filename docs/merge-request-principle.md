@@ -5,7 +5,7 @@
   2. After development, lint and commit your code.
   3. (If conflicts exist), fix them.
   4. Push it to origin. 
-  5. Go to GitLab, create a merge request to development branch for your feature and wait for review.
+  5. Go to GitLab, create a merge request based on templates to development branch for your feature and wait for review.
   6. (If rejected), revise your code according to reviewer's suggestion and recommit. 
 
 ## 2 Specific Workflow
@@ -41,6 +41,6 @@ git rebase --continue
 # push it to origin
 git push -u origin feature-whatever
 
-# create a merge request based on template
+# create a merge request based on templates
 ...
 ```
