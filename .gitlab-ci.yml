@@ -1,5 +1,15 @@
 variables:
   IMAGE: $CI_REGISTRY_IMAGE
+  VERSION: "0.0.5"
+  DOCKER_DRIVER: overlay2
+  DOCKER_TLS_CERTDIR: ""
+
+services:
+  - name: docker:dind
+    command:
+      - "dockerd-entrypoint.sh"
+      - "--registry-mirror"
+      - "https://dockerhub.azk8s.cn"
 
 stages:
   - test
@@ -26,8 +36,6 @@ test:
 build:
   stage: build
   image: docker
-  services:
-    - docker:dind
   allow_failure: false
   cache:
     key: cache-key
