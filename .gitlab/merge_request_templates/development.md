@@ -47,10 +47,10 @@ For more detais: [development guide](../../docs/development-guide.md).
 - [ ] Element selectors.
 
 #### 2.6 Comments
-- [ ] Top/file-level comment.
-- [ ] Class/component comment.
-- [ ] Function comment.
-- [ ] Bloack comment.
-- [ ] Variable comment.
-- [ ] Deprecation.
+- [ ] Top/file-level comments.
+- [ ] Class/component comments.
+- [ ] Function comments.
+- [ ] Bloack comments.
+- [ ] Variable comments.
+- [ ] Deprecation comments.
 
