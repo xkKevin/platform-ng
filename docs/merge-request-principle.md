@@ -44,3 +44,5 @@ git push -u origin feature-whatever
 # create a merge request based on templates
 ...
 ```
+
+Each merge request in development branch will be integrated and deployed in https://platform-ng-dev.projects.zjvis.org/ automatically. In addition, each merge request in master branch means a release and will be deployed in https://platform-ng.projects.zjvis.org/.

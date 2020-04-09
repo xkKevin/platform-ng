@@ -87,10 +87,6 @@ For more detais: [development guide](../../docs/development-guide.md).
 - [ ] Variable comments.
 - [ ] Deprecation comments.
 
-
-## Additional Plan?
-
-> If this MR relate other MRs. You can type here.
-
+---
 
 Sample: https://github.com/ant-design/ant-design/pull/14003
