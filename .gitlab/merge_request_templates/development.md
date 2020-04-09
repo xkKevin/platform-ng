@@ -1,23 +1,53 @@
 # Contributing
 Thanks for contributing to Zhijiang Visual Analytic Platform NG! Here are some guidelines to getting your merge request accepted.
 
-### 1 Lint
-- [ ] Make sure to pass the lint check in CI pipeline.
+## This is a ...
+- [x] New feature
+- [ ] Other
 
-### 2 Check the development rules
+
+## What's the background?
+
+> 1. Describe the source of requirement.
+> 2. Resolve what problem.
+
+
+## Realization
+
+> 1. Basic thought of solution and other optional proposal.
+> 2. List final API realization and usage sample.
+> 3. GIF or snapshot should be provided if includes UI/interactive modification.
+
+
+## What's the affect?
+
+> 1. Does this MR affect users? Which part will be affected?
+> 2. Changelog.
+> 3. Does this MR contains potential break change of other risk?
+
+
+## Self Check before Merge (Lint)
+
 For more detais: [development guide](../../docs/development-guide.md).
 
-#### 2.1 File 
+#### Lint
+
+- [ ] Make sure to pass the lint check in CI pipeline.
+
+#### File 
+
 - [ ] File names.
 - [ ] File overview comments.
 - [ ] Documents and demos.
 
-#### 2.2 Modules
+#### Modules
+
 - [ ] File extension
 - [ ] Naming imports
 - [ ] Cycles
 
-#### 2.3 Language
+#### Language
+
 - [ ] Variable: complex structure comments.
 - [ ] Object: method shorthand.
 - [ ] Object: enum.
@@ -30,7 +60,8 @@ For more detais: [development guide](../../docs/development-guide.md).
 - [ ] Control: loop.
 - [ ] Exception: custom exception.
 
-#### 2.4 Naming
+#### Naming
+
 - [ ] Identifiers: ASCII letters and digits, underscores, and dollar signs.
 - [ ] Rationality: give a descriptive and reasonable name.
 - [ ] Abbreviations: use with caution.
@@ -40,13 +71,15 @@ For more detais: [development guide](../../docs/development-guide.md).
 - [ ] Constant: `CONSTANT_CASE`, nouns or noun phrases, immutable.
 - [ ] Others: lowerCamelCase.
 
-#### 2.5 Vue.js
+#### Vue.js
+
 - [ ] Parent-child communication.
 - [ ] Expression in template.
 - [ ] Directive shorthands.
 - [ ] Element selectors.
 
-#### 2.6 Comments
+#### Comments
+
 - [ ] Top/file-level comments.
 - [ ] Class/component comments.
 - [ ] Function comments.
@@ -54,3 +87,10 @@ For more detais: [development guide](../../docs/development-guide.md).
 - [ ] Variable comments.
 - [ ] Deprecation comments.
 
+
+## Additional Plan?
+
+> If this MR relate other MRs. You can type here.
+
+
+Sample: https://github.com/ant-design/ant-design/pull/14003

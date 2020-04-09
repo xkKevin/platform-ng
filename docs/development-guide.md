@@ -102,8 +102,8 @@ class Foo {
 ```
 
 4. Function
-  1. Arrow functions are prefered in most situations because they are more concise and simplify scoping `this`.
-  2. Use a rest parameter instead of accessing `arguments`. Rest parameters are typed with a `...` prefix in function documents. Meanwhile, spread operator (`...`) is also recommended.
+   1. Arrow functions are prefered in most situations because they are more concise and simplify scoping `this`.
+   2. Use a rest parameter instead of accessing `arguments`. Rest parameters are typed with a `...` prefix in function documents. Meanwhile, spread operator (`...`) is also recommended.
 5. Control Structure
    1. Loop
       1. `for ... of` loop is prefered when possible. 
