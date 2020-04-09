@@ -4,7 +4,7 @@
   - Research is science while engineering is more like art. Great SDEs should pursue from usable to robust, reliable and tolerant code. [Recommended reading](https://zhuanlan.zhihu.com/p/25595871).
 - Our configuration
   - [ESLint](https://eslint.org/) and [Prettier](https://prettier.io/) are applied to unified the code format and ensure code quality when developing in our built-in hot-reload server. Note: automatic fix is turned off by default because we hope our developers understand which rules need attention. Based on your own situation, you could turn it on by modifying corresponding configuration in `webpack.config.js` and `package.json` (but not commit them to GitLab). For more details, check the configuration files `.eslintrc.json` and `.prettierrc.js`.
-  - Further, a lot of advanced rules should also be followed to unify the code style. These rules could not be integrated into lint tools. Therefore, efforts should be taken by developers and reviewers. This type of rules is described as follow.
+  - Further, some rules are out of the scope of linters but are as important, thus efforts are required from developers and maintainers to enforce them. We derived a set of such rules from [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) and [Vue Style Guide](https://cn.vuejs.org/v2/style-guide/), and they are described as follows.
 
 ## 1 Files
 1. File names must be all lowercase and may include dashes (-), but no additional punctuation (except for `App.vue`).
@@ -16,27 +16,28 @@ Example
  * @fileoverview Utilities for handling textareas.
  * Provide a series of functions.
  * Based on d3.js, lodash.js.
- * @author crcrcry.hello@gmail.com (Ran Chen)
+ * @author Ran Chen <crcrcry.hello@gmail.com>
  */
 ```
 
-3. Vue component names should be multi-word and tightly coupled.
+3. Vue component names should be multi-word or at least very different from native html tags to avoid conflicts. Names of sub-components should be tightly coupled, e.g. properly prefixed.
 4. Provide component documents in `README.md` and demos in `index.html`.
 
 Example
 ```js
-todolist/
-|- index.vue
-|- item.vue
-|- item-button.vue
-|- index.html
-|- README.md
-search-bar/
-|- index.vue
-|- navigation.vue
-|- button.vue
-|- index.html
-|- README.md
+components/
+|- todolist/
+  |- index.vue
+  |- todolist-item.vue
+  |- todolist-item-button.vue
+  |- index.html
+  |- README.md
+|- search-bar/
+  |- index.vue
+  |- search-bar-navigation.vue
+  |- search-bar-button.vue
+  |- index.html
+  |- README.md
 ```
 
 ## 2 Modules
@@ -68,6 +69,16 @@ import { SOME_CONSTANT } from '../constant.js'
 
 Example
 ```js
+const myObject = {
+  shorthandMethod() {
+    // ...
+  },
+  // instead of
+  // method: function () {
+  //   ...
+  // }
+}
+
 // Method shorthand is worse herein.
 new Vue({
   render: (h) => h(App),
@@ -106,7 +117,7 @@ class Foo {
    2. Use a rest parameter instead of accessing `arguments`. Rest parameters are typed with a `...` prefix in function documents. Meanwhile, spread operator (`...`) is also recommended.
 5. Control Structure
    1. Loop
-      1. `for ... of` loop is prefered when possible. 
+      1. `for ... of` loop is prefered when possible.
       2. `for ... in` loop may only be used on dict-style objects.
       3. Functional programming with high-order functions are recommended for clearer logic.
    2. Exception
@@ -137,10 +148,10 @@ customerId          // "Id" is both ubiquitous and unlikely to be misunderstood.
 ```
 
 ### 4.1 Naming Rules
-1. Class names: 
+1. Class names:
    1. UpperCamelCase
    2. Names are typically nouns or noun phrases.
-2. Method names: 
+2. Method names:
    1. lowerCamelCase
    2. Names are typically verbs or verb phrases.
 3. Enum names
@@ -156,11 +167,11 @@ customerId          // "Id" is both ubiquitous and unlikely to be misunderstood.
    2. Include non-constant field names, parameter names, local variable names, etc.
 
 ### 4.2 Naming Methods
-1. Camel naming method 
-   1. Covert from the phrase to plain ASCII.
+1. Camel naming method
+   1. Covert the phrase to plain ASCII.
    2. Divide the result into words.
-    - If any word already has a conventionial camel case appearance, split it. (e.g., `'YouTube' -> 'You Tube'`)
-   3. Then lowercase everything and uppercase only the first character.
+      - If any word already has a conventionial camel case appearance, split it. (e.g., `'YouTube' -> 'You Tube'`)
+   3. Then lowercase everything and uppercase only the first character of each word, except for the first word. See examples below.
    4. Finally, join.
 
 Example
@@ -262,6 +273,5 @@ const Option = {
 ```
 
 6. Deprecation
-   1. Mark deprecated methods, classes or interfaces with @deprecated annotations. 
+   1. Mark deprecated methods, classes or interfaces with @deprecated annotations.
    2. A deprecation comment must include simple, clear directions for people to fix their call sites.
-
