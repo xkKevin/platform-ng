@@ -40,17 +40,6 @@ spec:
             requests:
               cpu: 50m
               memory: 100Mi
-          livenessProbe: # (optional) liveness health check
-            tcpSocket:
-              port: 80
-            periodSeconds: 10
-          readinessProbe: # (optional) readiness health check
-            httpGet:
-              path: /healthz
-              port: 80
-              scheme: HTTP
-            initialDelaySeconds: 10
-            periodSeconds: 10
       imagePullSecrets:
         - name: ${CI_PROJECT_NAME}-pull-secret
 ---
@@ -66,8 +55,7 @@ spec:
     - name: web
       port: 80
       targetPort: 80
-#  clusterIP: 10.108.18.220
---- # service for external only
+--- 
 apiVersion: networking.k8s.io/v1beta1
 kind: Ingress
 metadata:
@@ -89,3 +77,4 @@ spec:
     - hosts:
         - $HOST
       secretName: ${CI_PROJECT_NAME}-tls-secret
+
