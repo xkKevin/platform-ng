@@ -23,5 +23,9 @@
     "no-useless-call": "error",
     "default-case": "error",
     "eqeqeq": ["error", "smart"]
+  },
+  "ignorePatterns": ["node_modules/", "dist/"],
+  "env": {
+    "node": true
   }
 }
