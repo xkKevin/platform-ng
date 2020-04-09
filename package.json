@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack",
-    "lint": "eslint --ext .js,.vue src --fix --max-warnings 0"
+    "lint": "eslint --ext .js,.vue src --max-warnings 0",
+    "commit": "git-cz"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,7 @@
     "@babel/core": "^7.9.0",
     "@babel/preset-env": "^7.9.0",
     "babel-loader": "^8.1.0",
+    "commitizen": "^4.0.4",
     "css-loader": "^3.5.0",
     "eslint": "^6.8.0",
     "eslint-config-prettier": "^6.10.1",

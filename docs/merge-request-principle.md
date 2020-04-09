@@ -1,3 +1,14 @@
+# Merge Request Principle
+## 1 Overview
+- When you want to develop a new feature.
+  1. Create a new branch named `feature-xxx` and develop in this branch based on our [development guide](development-guide.md).
+  2. After development, lint and commit your code.
+  3. (If conflicts exist), fix them.
+  4. Push it to origin. 
+  5. Go to GitLab, create a merge request to development branch for your feature and wait for review.
+  6. (If rejected), revise your code according to reviewer's suggestion and recommit. 
+
+## 2 Specific Workflow
 ```bash
 # fetch remote first
 git fetch origin
@@ -13,12 +24,11 @@ git status
 
 # Do your coding part
 # Do not forget to lint and format your file before commit
-yarn run lint
+yarn lint
 
-# commit your code
-# please avoid the use `git commit --amend` since we want a complete commit history
+# commit your code with Commitizen for unified and normative commit message
 git add .
-git commit -m "a reasonable commit message" 
+yarn commit
 
 # NOTE: rebase first, and try to fix conflicts before you push
 git fetch origin
@@ -30,5 +40,7 @@ git rebase --continue
 
 # push it to origin
 git push -u origin feature-whatever
+
+# create a merge request based on template
+...
 ```
-Next, go to GitLab and create a merge request to development branch for your feature.

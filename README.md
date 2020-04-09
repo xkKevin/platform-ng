@@ -10,15 +10,17 @@ yarn
 
 ## ⌨️ Compiles and Hot-reloads for Development
 ```bash
-yarn run dev
+yarn dev
 ```
 
 ## 🏠 Compiles and Minifies for Production
-- [ ] TODO
+```
+yarn build
+```
 
 ## 🔨 Lints and Fixes Files
 ```bash
-yarn run lint
+yarn lint
 ```
 
 ## 🚩 Contributing

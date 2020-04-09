@@ -5,7 +5,23 @@
     "plugin:prettier/recommended"
   ],
   "rules": {
+    "array-callback-return": "error",
+    "spaced-comment": ["error", "always"],
+    "init-declarations": ["error", "always"],
+    "prefer-template": "error",
+    "prefer-const": "error",
+    "prefer-promise-reject-errors": "error",
+    "prefer-rest-params": "error",
+    "prefer-spread": "error",
+    "one-var": ["error", "never"],
     "no-var": "error",
-    "array-callback-return": "error"
+    "no-array-constructor": "error",
+    "no-new-object": "error",
+    "no-new-wrappers": "error",
+    "no-throw-literal": "error",
+    "no-duplicate-imports": "error",
+    "no-useless-call": "error",
+    "default-case": "error",
+    "eqeqeq": ["error", "smart"]
   }
 }
