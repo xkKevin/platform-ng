@@ -27,5 +27,6 @@
   "ignorePatterns": ["node_modules/", "dist/"],
   "env": {
     "node": true
-  }
+  },
+  "noInlineConfig": true
 }
