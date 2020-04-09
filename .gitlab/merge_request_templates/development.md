@@ -3,7 +3,7 @@ Thanks for contributing to Zhijiang Visual Analytic Platform NG! Here are some g
 
 ## This is a ...
 - [x] New feature
-- [ ] Other
+- [ ] Other (describe briefly)
 
 
 ## What's the background?
