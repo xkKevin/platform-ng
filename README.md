@@ -1,4 +1,6 @@
 # Zhijiang Visual Analytic Platform NG
+https://platform-ng.projects.zjvis.org/
+
 ## ☘️ Environment
 1. `Node` version >= `10`
 2. `Yarn` package manager
