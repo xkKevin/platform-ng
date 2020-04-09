@@ -3,7 +3,10 @@
   - We hope that our developers and reviewers consdier how to write beautiful code. It is as important as research because great research work needs landing and application to benefit others. In addition, excellent engineering ability is helpful for our career development.
   - Research is science while engineering is more like art. Great SDEs should pursue from usable to robust, reliable and tolerant code. [Recommended reading](https://zhuanlan.zhihu.com/p/25595871).
 - Our configuration
-  - [ESLint](https://eslint.org/) and [Prettier](https://prettier.io/) are applied to unified the code format and ensure code quality when developing in our built-in hot-reload server. Note: automatic fix is turned off by default because we hope our developers understand which rules need attention. Based on your own situation, you could turn it on by modifying corresponding configuration in `webpack.config.js` and `package.json` (but not commit them to GitLab). For more details, check the configuration files `.eslintrc.json` and `.prettierrc.js`.
+  - [ESLint](https://eslint.org/) and [Prettier](https://prettier.io/) are applied to unified the code format and ensure code quality when developing in our built-in hot-reload server. Note:
+     - Automatic fix is turned off by default because we hope our developers understand which rules need attention.
+     - Configuring eslint rules by inline comments is disabled by default to force compliance of the rules.
+     - You could locally modify these configurations as you like in `webpack.config.js`, `package.json`, `.eslintrc.json`, etc., but you should not push these config changes to remote. Reset configs to defaults to check against all fefault rules before creating merge requests.
   - Further, some rules are out of the scope of linters but are as important, thus efforts are required from developers and maintainers to enforce them. We derived a set of such rules from [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) and [Vue Style Guide](https://cn.vuejs.org/v2/style-guide/), and they are described as follows.
 
 ## 1 Files
