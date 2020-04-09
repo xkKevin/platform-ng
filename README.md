@@ -1,5 +1,7 @@
 # Zhijiang Visual Analytic Platform NG
-https://platform-ng.projects.zjvis.org/
+- Deployment (prod): https://platform-ng.projects.zjvis.org/
+- Deployment (dev): https://platform-ng-dev.projects.zjvis.org/
+
 
 ## ☘️ Environment
 1. `Node` version >= `10`
