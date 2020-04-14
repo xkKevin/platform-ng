@@ -22,7 +22,7 @@ export default {
   </div>
 </template>
 
-<style>
+<style lang="less">
 div {
   text-align: center;
 }
