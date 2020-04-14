@@ -18,7 +18,7 @@ export default {
 
 <template>
   <div id="app">
-    {{ msg }}
+    <router-view />
   </div>
 </template>
 
@@ -30,9 +30,6 @@ body {
     'Hiragino Sans GB', 'Microsoft YaHei', 'Microsoft Jhenghei', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
-#app {
-  height: 100vh;
-  width: 100vw;
+  font-size: 14px;
 }
 </style>
