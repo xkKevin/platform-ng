@@ -16,13 +16,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "ant-design-vue": "^1.5.3",
     "d3": "^5.15.1",
-    "vue": "^2.6.11"
+    "vue": "^2.6.11",
+    "vue-router": "^3.1.6",
+    "zjlab-vis": "^0.3.2"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
     "@babel/preset-env": "^7.9.0",
     "babel-loader": "^8.1.0",
+    "babel-plugin-import": "^1.13.0",
     "commitizen": "^4.0.4",
     "css-loader": "^3.5.0",
     "cz-conventional-changelog": "3.1.0",
@@ -31,6 +35,9 @@
     "eslint-loader": "^4.0.0",
     "eslint-plugin-prettier": "^3.1.2",
     "eslint-plugin-vue": "^7.0.0-alpha.0",
+    "eslint-plugin-vue-libs": "^4.0.0",
+    "less": "^3.11.1",
+    "less-loader": "^5.0.0",
     "prettier": "^2.0.4",
     "vue-loader": "^15.9.1",
     "vue-style-loader": "^4.1.2",

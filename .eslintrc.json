@@ -22,7 +22,19 @@
     "no-duplicate-imports": "error",
     "no-useless-call": "error",
     "default-case": "error",
-    "eqeqeq": ["error", "smart"]
+    "eqeqeq": ["error", "smart"],
+    "vue/max-attributes-per-line": [
+      2,
+      { "singleline": 10, "multiline": { "max": 1, "allowFirstLine": false } }
+    ],
+    "vue/html-self-closing": [
+      "error",
+      {
+        "html": { "void": "any", "normal": "any", "component": "any" },
+        "svg": "any",
+        "math": "any"
+      }
+    ]
   },
   "ignorePatterns": ["node_modules/", "dist/"],
   "env": {

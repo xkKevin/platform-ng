@@ -17,13 +17,19 @@ export default {
 </script>
 
 <template>
-  <div id="#app">
-    {{ msg }}
+  <div id="app">
+    <router-view />
   </div>
 </template>
 
 <style>
-div {
-  text-align: center;
+body {
+  margin: 0;
+  font-family: 'PingFang SC', -apple-system, BlinkMacSystemFont,
+    'Noto Sans CJK SC', Roboto, 'Helvetica Neue', 'Avenir', Helvetica, Arial,
+    'Hiragino Sans GB', 'Microsoft YaHei', 'Microsoft Jhenghei', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 14px;
 }
 </style>
