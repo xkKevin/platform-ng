@@ -1,4 +1,13 @@
 <script>
+import layoutCanvas from '@/components/layout-canvas/index.vue'
+import visualComponentSelector from '@/components/visual-component/selector.vue'
+/**
+ * mixin for panel control of vis-analysis page
+ * @data showLeft/showRight
+ * the visibility of left&right panel
+ * @computed
+ * the computed style for left/middle/right
+ */
 const collapseMixin = {
   data() {
     return { showLeft: true, showRight: true }
@@ -27,6 +36,10 @@ const collapseMixin = {
 }
 
 export default {
+  components: {
+    layoutCanvas,
+    visualComponentSelector,
+  },
   mixins: [collapseMixin],
   data() {
     return {
@@ -38,32 +51,35 @@ export default {
 
 <template>
   <div id="playground">
-    <header class="playground_header" />
+    <header class="playground-header">
+      <router-link to="/">
+        <span style="color: white; line-height: 14px;">
+          <a-icon type="left" />返回
+        </span>
+      </router-link>
+    </header>
     <div class="workspace">
       <div class="workspace-left" :style="widthLeft">
-        <div class="section-header">
-          <span class="title">组件列表</span>
-        </div>
+        <visual-component-selector />
       </div>
       <div class="workspace-middle" :style="middleMargin">
-        <div class="section-header">
-          <span class="title" @click="leftToggle(), rightToggle()">布局</span>
-        </div>
-        <div></div>
+        <layout-canvas>
+          <span slot="actions">
+            <a-icon type="arrows-alt" />
+          </span>
+        </layout-canvas>
       </div>
       <div class="workspace-right" :style="widthRight">
         <div style="width: 100%; height: 45px;">
           <a-tabs>
             <a-tab-pane key="data" tab="数据">
-              <div class="inspector_content">
-                1212
-              </div>
+              <div class="section-content"></div>
             </a-tab-pane>
             <a-tab-pane key="configurator" tab="配置">
-              <div class="inspector_content" />
+              <div class="section-content" />
             </a-tab-pane>
             <a-tab-pane key="interactions" tab="交互">
-              <div class="inspector_content" />
+              <div class="section-content" />
             </a-tab-pane>
           </a-tabs>
         </div>
@@ -74,15 +90,24 @@ export default {
 
 <style lang="less">
 #playground {
-  @workspace-backgroud: #f2f4f7;
   @border-color: #e2e6ed;
   width: 100vw;
   height: 100vh;
-  .playground_header {
+  .playground-header {
     height: 60px;
     background: rgba(85, 97, 255, 1);
+    display: flex;
+    align-items: center;
+    padding: 0 16px;
+    color: white;
   }
+
+  // !!! WARNING !!!
+  // .workspace is the basic workspace layout style
+  // Add custom block style as siblings
   .workspace {
+    background-color: @section-background-color;
+
     position: relative;
     width: 100%;
     height: calc(~'100% - 60px');
@@ -99,6 +124,7 @@ export default {
 
     .workspace-middle {
       height: 100%;
+      background-color: @playground-background-color;
     }
 
     .workspace-right {
@@ -122,16 +148,22 @@ export default {
 
       .title {
         text-align: left;
-        padding-left: 16px;
+        flex: 1;
+      }
+      .actions {
+        text-align: right;
+        flex: 0 0 max-content;
       }
     }
-    .inspector_content {
+    .section-content {
       width: 100%;
       height: calc(~'100vh - 105px');
+      position: relative;
     }
     .ant-tabs-bar {
       margin: 0;
       text-align: center;
+      user-select: none;
     }
   }
 }

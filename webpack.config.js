@@ -4,7 +4,7 @@ const VueLoaderPlugin = require('vue-loader/lib/plugin')
 module.exports = {
   mode: 'development',
   entry: './src/index.js',
-  devtool: 'inline-source-map',
+  devtool: 'cheap-module-eval-source-map',
   devServer: {
     contentBase: './dist',
     open: true,
@@ -67,5 +67,16 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, 'dist'),
     filename: 'bundle.js',
+  },
+  externals: {
+    // vue: 'Vue',
+    // 'vue-router': 'VueRouter',
+    // d3: 'd3',
+    // 'vue-grid-layout': 'VueGridLayout',
+  },
+  resolve: {
+    alias: {
+      '@': path.resolve('src'),
+    },
   },
 }

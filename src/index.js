@@ -66,7 +66,7 @@ Vue.prototype.$notification = notification
 Vue.component(
   'AIconFont',
   Icon.createFromIconfontCN({
-    scriptUrl: '//at.alicdn.com/t/font_1566179_uw5tntrq0mf.js',
+    scriptUrl: '//at.alicdn.com/t/font_1566179_6y2e929njx.js',
   })
 )
 Vue.config.productionTip = false
