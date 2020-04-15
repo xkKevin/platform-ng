@@ -1,8 +1,8 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import home from './views/home.vue'
-import playground from './views/playground.vue'
-
+import visAnalysis from './views/vis-analysis.vue'
+import modelAnalysis from './views/model-analysis.vue'
 Vue.use(VueRouter)
 
 const routes = [
@@ -11,10 +11,16 @@ const routes = [
     name: 'home',
     component: home,
   },
+
   {
-    path: '/playground',
-    name: '画板',
-    component: playground,
+    path: '/model-analysis',
+    name: '模型分析',
+    component: modelAnalysis,
+  },
+  {
+    path: '/vis-analysis',
+    name: '可视分析',
+    component: visAnalysis,
   },
 ]
 

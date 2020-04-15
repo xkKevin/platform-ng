@@ -18,10 +18,10 @@ const collapseMixin = {
       )
     },
     widthLeft() {
-      return this.showLeft ? 'width:232px;' : ''
+      return this.showLeft ? 'width:232px;' : 'display:none'
     },
     widthRight() {
-      return this.showRight ? 'width:280px;' : ''
+      return this.showRight ? 'width:280px;' : 'display:none'
     },
   },
 }
@@ -42,29 +42,31 @@ export default {
     <div class="workspace">
       <div class="workspace-left" :style="widthLeft">
         <div class="section-header">
-          组件列表
+          <span class="title">组件列表</span>
         </div>
       </div>
       <div class="workspace-middle" :style="middleMargin">
         <div class="section-header">
-          布局
+          <span class="title" @click="leftToggle(), rightToggle()">布局</span>
         </div>
+        <div></div>
       </div>
       <div class="workspace-right" :style="widthRight">
-        <a-tabs
-          v-model="inspectorTab"
-          style="height: 45px; text-align: center;"
-        >
-          <a-tab-pane key="data" tab="数据">
-            <div class="inspector_content"></div>
-          </a-tab-pane>
-          <a-tab-pane key="configurator" tab="配置">
-            <div class="inspector_content" />
-          </a-tab-pane>
-          <a-tab-pane key="interactions" tab="交互">
-            <div class="inspector_content" />
-          </a-tab-pane>
-        </a-tabs>
+        <div style="width: 100%; height: 45px;">
+          <a-tabs>
+            <a-tab-pane key="data" tab="数据">
+              <div class="inspector_content">
+                1212
+              </div>
+            </a-tab-pane>
+            <a-tab-pane key="configurator" tab="配置">
+              <div class="inspector_content" />
+            </a-tab-pane>
+            <a-tab-pane key="interactions" tab="交互">
+              <div class="inspector_content" />
+            </a-tab-pane>
+          </a-tabs>
+        </div>
       </div>
     </div>
   </div>
@@ -92,6 +94,7 @@ export default {
       bottom: 0;
       box-sizing: border-box;
       border-right: 1px solid @border-color;
+      overflow: hidden;
     }
 
     .workspace-middle {
@@ -99,6 +102,7 @@ export default {
     }
 
     .workspace-right {
+      overflow: hidden;
       position: absolute;
       top: 0;
       right: 0;
@@ -108,17 +112,26 @@ export default {
     }
 
     .section-header {
+      user-select: none;
       width: 100%;
       height: 44px;
       border-bottom: 1px solid @border-color;
-    }
+      display: flex;
+      overflow: hidden;
+      align-items: center;
 
+      .title {
+        text-align: left;
+        padding-left: 16px;
+      }
+    }
     .inspector_content {
       width: 100%;
       height: calc(~'100vh - 105px');
     }
     .ant-tabs-bar {
       margin: 0;
+      text-align: center;
     }
   }
 }
