@@ -1,0 +1,79 @@
+<script>
+import VueGridLayout from 'vue-grid-layout'
+export default {
+  components: {
+    // layoutCanvasContainer,
+    GridLayout: VueGridLayout.GridLayout,
+    GridItem: VueGridLayout.GridItem,
+  },
+  props: {
+    prevLayout: {
+      type: Array,
+      default: null,
+    },
+  },
+  data() {
+    return {
+      modalVisible: false,
+      tempLayout: [
+        { x: 0, y: 0, w: 2, h: 2, i: 'c0' },
+        { x: 2, y: 0, w: 2, h: 4, i: 'c1' },
+        { x: 4, y: 0, w: 2, h: 5, i: 'c2' },
+        { x: 6, y: 0, w: 2, h: 3, i: 'c3' },
+        { x: 8, y: 0, w: 2, h: 3, i: 'c4' },
+        { x: 10, y: 0, w: 2, h: 3, i: 'c5' },
+        { x: 0, y: 5, w: 2, h: 5, i: 'c6' },
+        { x: 2, y: 5, w: 2, h: 5, i: 'c7' },
+        { x: 4, y: 5, w: 2, h: 5, i: 'c8' },
+      ],
+    }
+  },
+  methods: {
+    handleOk() {},
+    addItem() {
+      // let is = this.tempLayout
+      //   .map((item) => +item.i.slice(1))
+      //   .sort((a, b) => a - b)[0]
+      // console.log(is)
+      // this.tempLayout.push({ x: 0, y: 0, w: 2, y: 2, i: `` })
+    },
+  },
+}
+</script>
+
+<template>
+  <div class="hoverable" @click="modalVisible = true">
+    <a-modal v-model="modalVisible" destroy-on-close @ok="handleOk">
+      <span slot="closeIcon" />
+      <button @click="addItem()">+ Add</button>
+      <grid-layout
+        :style="`width:476px;height:476px;background:white;`"
+        :layout.sync="tempLayout"
+        :col-num="24"
+        :row-height="16"
+        :max-rows="24"
+        :is-draggable="true"
+        :is-resizable="true"
+        :is-mirrored="false"
+        :vertical-compact="true"
+        :margin="[4, 4]"
+        :use-css-transforms="true"
+      >
+        <grid-item
+          v-for="item in tempLayout"
+          :key="item.i"
+          :x="item.x"
+          :y="item.y"
+          :w="item.w"
+          :h="item.h"
+          :i="item.i"
+        >
+          {{ item.i }}:{{ item.w }}x{{ item.h }}
+        </grid-item>
+      </grid-layout>
+    </a-modal>
+    <a-icon type="setting" />&nbsp;自定义布局
+  </div>
+</template>
+
+<style></style>

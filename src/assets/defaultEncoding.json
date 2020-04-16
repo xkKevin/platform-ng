@@ -1,0 +1,6360 @@
+{
+  "AreaChart": {
+    "data": [
+      {
+        "valueA": 1,
+        "valueB": 93.24,
+        "c": "c1",
+        "_key": "areaData1"
+      },
+      {
+        "valueA": 2,
+        "valueB": 93.24,
+        "c": "c1",
+        "_key": "areaData2"
+      },
+      {
+        "valueA": 3,
+        "valueB": 91.24,
+        "c": "c1",
+        "_key": "areaData3"
+      },
+      {
+        "valueA": 4,
+        "valueB": 90.12,
+        "c": "c1",
+        "_key": "areaData4"
+      },
+      {
+        "valueA": 5,
+        "valueB": 98.84,
+        "c": "c1",
+        "_key": "areaData5"
+      },
+      {
+        "valueA": 6,
+        "valueB": 95.24,
+        "c": "c1",
+        "_key": "areaData6"
+      },
+      {
+        "valueA": 7,
+        "valueB": 98.24,
+        "c": "c1",
+        "_key": "areaData7"
+      },
+      {
+        "valueA": 8,
+        "valueB": 96.24,
+        "c": "c1",
+        "_key": "areaData8"
+      },
+      {
+        "valueA": 9,
+        "valueB": 98.24,
+        "c": "c1",
+        "_key": "areaData9"
+      },
+      {
+        "valueA": 10,
+        "valueB": 96.24,
+        "c": "c1",
+        "_key": "areaData10"
+      },
+
+      {
+        "valueA": 1,
+        "valueB": 97.24,
+        "c": "c2",
+        "_key": "areaData11"
+      },
+      {
+        "valueA": 2,
+        "valueB": 80,
+        "c": "c2",
+        "_key": "areaData12"
+      },
+      {
+        "valueA": 3,
+        "valueB": 100.12,
+        "c": "c2",
+        "_key": "areaData13"
+      },
+      {
+        "valueA": 4,
+        "valueB": 91.84,
+        "c": "c2",
+        "_key": "areaData14"
+      },
+      {
+        "valueA": 5,
+        "valueB": 89.24,
+        "c": "c2",
+        "_key": "areaData15"
+      },
+      {
+        "valueA": 6,
+        "valueB": 97.24,
+        "c": "c2",
+        "_key": "areaData16"
+      },
+      {
+        "valueA": 7,
+        "valueB": 90.24,
+        "c": "c2",
+        "_key": "areaData17"
+      },
+      {
+        "valueA": 8,
+        "valueB": 98.24,
+        "c": "c2",
+        "_key": "areaData18"
+      },
+      {
+        "valueA": 9,
+        "valueB": 96.24,
+        "c": "c2",
+        "_key": "areaData19"
+      },
+      {
+        "valueA": 10,
+        "valueB": 104,
+        "c": "c2",
+        "_key": "areaData20"
+      },
+
+      {
+        "valueA": 1,
+        "valueB": 83.24,
+        "c": "c3",
+        "_key": "areaData21"
+      },
+      {
+        "valueA": 2,
+        "valueB": 103.24,
+        "c": "c3",
+        "_key": "areaData22"
+      },
+      {
+        "valueA": 3,
+        "valueB": 98.24,
+        "c": "c3",
+        "_key": "areaData23"
+      },
+      {
+        "valueA": 4,
+        "valueB": 99.12,
+        "c": "c3",
+        "_key": "areaData24"
+      },
+      {
+        "valueA": 5,
+        "valueB": 92.84,
+        "c": "c3",
+        "_key": "areaData25"
+      },
+      {
+        "valueA": 6,
+        "valueB": 100.24,
+        "c": "c3",
+        "_key": "areaData26"
+      },
+      {
+        "valueA": 7,
+        "valueB": 88.24,
+        "c": "c3",
+        "_key": "areaData27"
+      },
+      {
+        "valueA": 8,
+        "valueB": 86.24,
+        "c": "c3",
+        "_key": "areaData28"
+      },
+      {
+        "valueA": 9,
+        "valueB": 90.24,
+        "c": "c3",
+        "_key": "areaData29"
+      },
+      {
+        "valueA": 10,
+        "valueB": 100,
+        "c": "c3",
+        "_key": "areaData30"
+      },
+
+      {
+        "valueA": 1,
+        "valueB": 104,
+        "c": "c4",
+        "_key": "areaData31"
+      },
+      {
+        "valueA": 2,
+        "valueB": 99.24,
+        "c": "c4",
+        "_key": "areaData32"
+      },
+      {
+        "valueA": 3,
+        "valueB": 80,
+        "c": "c4",
+        "_key": "areaData33"
+      },
+      {
+        "valueA": 4,
+        "valueB": 88.24,
+        "c": "c4",
+        "_key": "areaData34"
+      },
+      {
+        "valueA": 5,
+        "valueB": 90.12,
+        "c": "c4",
+        "_key": "areaData35"
+      },
+      {
+        "valueA": 6,
+        "valueB": 90.84,
+        "c": "c4",
+        "_key": "areaData36"
+      },
+      {
+        "valueA": 7,
+        "valueB": 100.24,
+        "c": "c4",
+        "_key": "areaData37"
+      },
+      {
+        "valueA": 8,
+        "valueB": 80.24,
+        "c": "c4",
+        "_key": "areaData38"
+      },
+      {
+        "valueA": 9,
+        "valueB": 86.24,
+        "c": "c4",
+        "_key": "areaData39"
+      },
+      {
+        "valueA": 10,
+        "valueB": 94.94,
+        "c": "c4",
+        "_key": "areaData40"
+      }
+    ],
+    "selection": [],
+    "encoding": {
+      "detail": "c",
+      "x": "valueA",
+      "y": "valueB",
+      "scale": [
+        [0, 50],
+        [0, 100]
+      ]
+    }
+  },
+  "BarChart": {
+    "data": [
+      {
+        "_key": "d1",
+        "a": "no1",
+        "b": 6,
+        "c": "c1",
+        "d": 15
+      },
+      {
+        "_key": "d2",
+        "a": "no2",
+        "b": 5,
+        "c": "c2",
+        "d": 5
+      },
+      {
+        "_key": "d3",
+        "a": "no3",
+        "b": 9,
+        "c": "c2",
+        "d": 2
+      },
+      {
+        "_key": "d4",
+        "a": "no4",
+        "b": 2,
+        "c": "c2",
+        "d": 5
+      },
+      {
+        "_key": "d5",
+        "a": "no5",
+        "b": 5,
+        "c": "c3",
+        "d": 23
+      },
+      {
+        "_key": "d6",
+        "a": "no6",
+        "b": 37,
+        "c": "c1",
+        "d": 11
+      },
+      {
+        "_key": "d7",
+        "a": "no7",
+        "b": 18,
+        "c": "c2",
+        "d": 22
+      },
+      {
+        "_key": "d8",
+        "a": "no8",
+        "b": 9,
+        "c": "c1",
+        "d": 4
+      }
+    ],
+    "selection": [],
+    "encoding": {
+      "y": "b"
+    }
+  },
+  "BoxPlot": {
+    "data": [
+      {
+        "a": 12,
+        "b": "blue",
+        "c": 103,
+        "_key": "1D1"
+      },
+      {
+        "a": 34,
+        "b": "green",
+        "c": 44,
+        "_key": "1D2"
+      },
+      {
+        "a": 42,
+        "b": "red",
+        "c": 133,
+        "_key": "1D3"
+      },
+      {
+        "a": 9,
+        "b": "blue",
+        "c": 66,
+        "_key": "1D4"
+      },
+      {
+        "a": 75,
+        "b": "green",
+        "c": 153,
+        "_key": "1D5"
+      },
+      {
+        "a": 45,
+        "b": "green",
+        "c": 60,
+        "_key": "1D6"
+      },
+      {
+        "a": 25,
+        "b": "green",
+        "c": 100,
+        "_key": "1D7"
+      },
+      {
+        "a": 66,
+        "b": "green",
+        "c": 13,
+        "_key": "1D8"
+      },
+      {
+        "a": 12,
+        "b": "yellow",
+        "c": 193,
+        "_key": "1D9"
+      },
+      {
+        "a": 34,
+        "b": "blue",
+        "c": 155,
+        "_key": "1D10"
+      },
+      {
+        "a": 42,
+        "b": "green",
+        "c": 152,
+        "_key": "1D11"
+      },
+      {
+        "a": 9,
+        "b": "red",
+        "c": 108,
+        "_key": "1D12"
+      },
+      {
+        "a": 75,
+        "b": "blue",
+        "c": 141,
+        "_key": "1D13"
+      },
+      {
+        "a": 45,
+        "b": "green",
+        "c": 111,
+        "_key": "1D14"
+      },
+      {
+        "a": 25,
+        "b": "red",
+        "c": 162,
+        "_key": "1D15"
+      },
+      {
+        "a": 66,
+        "b": "green",
+        "c": 103,
+        "_key": "1D16"
+      },
+      {
+        "a": 12,
+        "b": "yellow",
+        "c": 90,
+        "_key": "1D17"
+      },
+      {
+        "a": 34,
+        "b": "blue",
+        "c": 125,
+        "_key": "1D18"
+      },
+      {
+        "a": 42,
+        "b": "red",
+        "c": 80,
+        "_key": "1D19"
+      },
+      {
+        "a": 9,
+        "b": "yellow",
+        "c": 99,
+        "_key": "1D20"
+      },
+      {
+        "a": 75,
+        "b": "blue",
+        "c": 50,
+        "_key": "1D21"
+      },
+      {
+        "a": 45,
+        "b": "red",
+        "c": 140,
+        "_key": "1D22"
+      },
+      {
+        "a": 25,
+        "b": "yellow",
+        "c": 66,
+        "_key": "1D23"
+      },
+      {
+        "a": 66,
+        "b": "blue",
+        "c": 120,
+        "_key": "1D24"
+      }
+    ],
+    "selection": [],
+    "encoding": {
+      "field": "a",
+      "range": [0, 100],
+      "color": "pink",
+      "fillColor": "#ced"
+    }
+  },
+  "ButtonComponent": {
+    "data": "ButtonText",
+    "encoding": {
+      "shape": "round",
+      "type": "dashed",
+      "size": "large"
+    }
+  },
+  "Checkbox": {
+    "data": ["Apple", "Pear", "Orange"],
+    "selection": ["Apple", "Pear"]
+  },
+  "ChordDiagram": {
+    "data": {},
+    "selection": [],
+    "encoding": {
+      "ratioLeft": 2619,
+      "ratioRight": 2724,
+      "ringColor": "#dddddd",
+      "nodeValueColor": "#fe931e",
+      "arrowColor": "#777777"
+    }
+  },
+  "Divider": {
+    "encoding": {
+      "type": "horizontal",
+      "orientation": "left",
+      "dashed": true,
+      "text": "Our Test"
+    }
+  },
+  "ForceDirectedGraph": {
+    "data": [],
+    "encoding": {
+      "width": "value",
+      "opacity": "value",
+      "nodeFillColor": "#fff",
+      "nodeStrokeColor": "#666",
+      "linkColor": "#0fbcf9"
+    }
+  },
+  "GeoMap": {
+    "data": [],
+    "selection": [],
+    "encoding": {}
+  },
+  "GNew": {
+    "data": {
+      "nodes": [
+        {
+          "id": "Myriel",
+          "group": 1
+        },
+        {
+          "id": "Napoleon",
+          "group": 1
+        },
+        {
+          "id": "Mlle.Baptistine",
+          "group": 1
+        },
+        {
+          "id": "Mme.Magloire",
+          "group": 1
+        },
+        {
+          "id": "CountessdeLo",
+          "group": 1
+        },
+        {
+          "id": "Geborand",
+          "group": 1
+        },
+        {
+          "id": "Champtercier",
+          "group": 1
+        },
+        {
+          "id": "Cravatte",
+          "group": 1
+        },
+        {
+          "id": "Count",
+          "group": 1
+        },
+        {
+          "id": "OldMan",
+          "group": 1
+        },
+        {
+          "id": "Labarre",
+          "group": 2
+        },
+        {
+          "id": "Valjean",
+          "group": 2
+        },
+        {
+          "id": "Marguerite",
+          "group": 3
+        },
+        {
+          "id": "Mme.deR",
+          "group": 2
+        },
+        {
+          "id": "Isabeau",
+          "group": 2
+        },
+        {
+          "id": "Gervais",
+          "group": 2
+        },
+        {
+          "id": "Tholomyes",
+          "group": 3
+        },
+        {
+          "id": "Listolier",
+          "group": 3
+        },
+        {
+          "id": "Fameuil",
+          "group": 3
+        },
+        {
+          "id": "Blacheville",
+          "group": 3
+        },
+        {
+          "id": "Favourite",
+          "group": 3
+        },
+        {
+          "id": "Dahlia",
+          "group": 3
+        },
+        {
+          "id": "Zephine",
+          "group": 3
+        },
+        {
+          "id": "Fantine",
+          "group": 3
+        },
+        {
+          "id": "Mme.Thenardier",
+          "group": 4
+        },
+        {
+          "id": "Thenardier",
+          "group": 4
+        },
+        {
+          "id": "Cosette",
+          "group": 5
+        },
+        {
+          "id": "Javert",
+          "group": 4
+        },
+        {
+          "id": "Fauchelevent",
+          "group": 0
+        },
+        {
+          "id": "Bamatabois",
+          "group": 2
+        },
+        {
+          "id": "Perpetue",
+          "group": 3
+        },
+        {
+          "id": "Simplice",
+          "group": 2
+        },
+        {
+          "id": "Scaufflaire",
+          "group": 2
+        },
+        {
+          "id": "Woman1",
+          "group": 2
+        },
+        {
+          "id": "Judge",
+          "group": 2
+        },
+        {
+          "id": "Champmathieu",
+          "group": 2
+        },
+        {
+          "id": "Brevet",
+          "group": 2
+        },
+        {
+          "id": "Chenildieu",
+          "group": 2
+        },
+        {
+          "id": "Cochepaille",
+          "group": 2
+        },
+        {
+          "id": "Pontmercy",
+          "group": 4
+        },
+        {
+          "id": "Boulatruelle",
+          "group": 6
+        },
+        {
+          "id": "Eponine",
+          "group": 4
+        },
+        {
+          "id": "Anzelma",
+          "group": 4
+        },
+        {
+          "id": "Woman2",
+          "group": 5
+        },
+        {
+          "id": "MotherInnocent",
+          "group": 0
+        },
+        {
+          "id": "Gribier",
+          "group": 0
+        },
+        {
+          "id": "Jondrette",
+          "group": 7
+        },
+        {
+          "id": "Mme.Burgon",
+          "group": 7
+        },
+        {
+          "id": "Gavroche",
+          "group": 8
+        },
+        {
+          "id": "Gillenormand",
+          "group": 5
+        },
+        {
+          "id": "Magnon",
+          "group": 5
+        },
+        {
+          "id": "Mlle.Gillenormand",
+          "group": 5
+        },
+        {
+          "id": "Mme.Pontmercy",
+          "group": 5
+        },
+        {
+          "id": "Mlle.Vaubois",
+          "group": 5
+        },
+        {
+          "id": "Lt.Gillenormand",
+          "group": 5
+        },
+        {
+          "id": "Marius",
+          "group": 8
+        },
+        {
+          "id": "BaronessT",
+          "group": 5
+        },
+        {
+          "id": "Mabeuf",
+          "group": 8
+        },
+        {
+          "id": "Enjolras",
+          "group": 8
+        },
+        {
+          "id": "Combeferre",
+          "group": 8
+        },
+        {
+          "id": "Prouvaire",
+          "group": 8
+        },
+        {
+          "id": "Feuilly",
+          "group": 8
+        },
+        {
+          "id": "Courfeyrac",
+          "group": 8
+        },
+        {
+          "id": "Bahorel",
+          "group": 8
+        },
+        {
+          "id": "Bossuet",
+          "group": 8
+        },
+        {
+          "id": "Joly",
+          "group": 8
+        },
+        {
+          "id": "Grantaire",
+          "group": 8
+        },
+        {
+          "id": "MotherPlutarch",
+          "group": 9
+        },
+        {
+          "id": "Gueulemer",
+          "group": 4
+        },
+        {
+          "id": "Babet",
+          "group": 4
+        },
+        {
+          "id": "Claquesous",
+          "group": 4
+        },
+        {
+          "id": "Montparnasse",
+          "group": 4
+        },
+        {
+          "id": "Toussaint",
+          "group": 5
+        },
+        {
+          "id": "Child1",
+          "group": 10
+        },
+        {
+          "id": "Child2",
+          "group": 10
+        },
+        {
+          "id": "Brujon",
+          "group": 4
+        },
+        {
+          "id": "Mme.Hucheloup",
+          "group": 8
+        }
+      ],
+      "links": [
+        {
+          "source": "Napoleon",
+          "target": "Myriel",
+          "value": 1
+        },
+        {
+          "source": "Mlle.Baptistine",
+          "target": "Myriel",
+          "value": 8
+        },
+        {
+          "source": "Mme.Magloire",
+          "target": "Myriel",
+          "value": 10
+        },
+        {
+          "source": "Mme.Magloire",
+          "target": "Mlle.Baptistine",
+          "value": 6
+        },
+        {
+          "source": "CountessdeLo",
+          "target": "Myriel",
+          "value": 1
+        },
+        {
+          "source": "Geborand",
+          "target": "Myriel",
+          "value": 1
+        },
+        {
+          "source": "Champtercier",
+          "target": "Myriel",
+          "value": 1
+        },
+        {
+          "source": "Cravatte",
+          "target": "Myriel",
+          "value": 1
+        },
+        {
+          "source": "Count",
+          "target": "Myriel",
+          "value": 2
+        },
+        {
+          "source": "OldMan",
+          "target": "Myriel",
+          "value": 1
+        },
+        {
+          "source": "Valjean",
+          "target": "Labarre",
+          "value": 1
+        },
+        {
+          "source": "Valjean",
+          "target": "Mme.Magloire",
+          "value": 3
+        },
+        {
+          "source": "Valjean",
+          "target": "Mlle.Baptistine",
+          "value": 3
+        },
+        {
+          "source": "Valjean",
+          "target": "Myriel",
+          "value": 5
+        },
+        {
+          "source": "Marguerite",
+          "target": "Valjean",
+          "value": 1
+        },
+        {
+          "source": "Mme.deR",
+          "target": "Valjean",
+          "value": 1
+        },
+        {
+          "source": "Isabeau",
+          "target": "Valjean",
+          "value": 1
+        },
+        {
+          "source": "Gervais",
+          "target": "Valjean",
+          "value": 1
+        },
+        {
+          "source": "Listolier",
+          "target": "Tholomyes",
+          "value": 4
+        },
+        {
+          "source": "Fameuil",
+          "target": "Tholomyes",
+          "value": 4
+        },
+        {
+          "source": "Fameuil",
+          "target": "Listolier",
+          "value": 4
+        },
+        {
+          "source": "Blacheville",
+          "target": "Tholomyes",
+          "value": 4
+        },
+        {
+          "source": "Blacheville",
+          "target": "Listolier",
+          "value": 4
+        },
+        {
+          "source": "Blacheville",
+          "target": "Fameuil",
+          "value": 4
+        },
+        {
+          "source": "Favourite",
+          "target": "Tholomyes",
+          "value": 3
+        },
+        {
+          "source": "Favourite",
+          "target": "Listolier",
+          "value": 3
+        },
+        {
+          "source": "Favourite",
+          "target": "Fameuil",
+          "value": 3
+        },
+        {
+          "source": "Favourite",
+          "target": "Blacheville",
+          "value": 4
+        },
+        {
+          "source": "Dahlia",
+          "target": "Tholomyes",
+          "value": 3
+        },
+        {
+          "source": "Dahlia",
+          "target": "Listolier",
+          "value": 3
+        },
+        {
+          "source": "Dahlia",
+          "target": "Fameuil",
+          "value": 3
+        },
+        {
+          "source": "Dahlia",
+          "target": "Blacheville",
+          "value": 3
+        },
+        {
+          "source": "Dahlia",
+          "target": "Favourite",
+          "value": 5
+        },
+        {
+          "source": "Zephine",
+          "target": "Tholomyes",
+          "value": 3
+        },
+        {
+          "source": "Zephine",
+          "target": "Listolier",
+          "value": 3
+        },
+        {
+          "source": "Zephine",
+          "target": "Fameuil",
+          "value": 3
+        },
+        {
+          "source": "Zephine",
+          "target": "Blacheville",
+          "value": 3
+        },
+        {
+          "source": "Zephine",
+          "target": "Favourite",
+          "value": 4
+        },
+        {
+          "source": "Zephine",
+          "target": "Dahlia",
+          "value": 4
+        },
+        {
+          "source": "Fantine",
+          "target": "Tholomyes",
+          "value": 3
+        },
+        {
+          "source": "Fantine",
+          "target": "Listolier",
+          "value": 3
+        },
+        {
+          "source": "Fantine",
+          "target": "Fameuil",
+          "value": 3
+        },
+        {
+          "source": "Fantine",
+          "target": "Blacheville",
+          "value": 3
+        },
+        {
+          "source": "Fantine",
+          "target": "Favourite",
+          "value": 4
+        },
+        {
+          "source": "Fantine",
+          "target": "Dahlia",
+          "value": 4
+        },
+        {
+          "source": "Fantine",
+          "target": "Zephine",
+          "value": 4
+        },
+        {
+          "source": "Fantine",
+          "target": "Marguerite",
+          "value": 2
+        },
+        {
+          "source": "Fantine",
+          "target": "Valjean",
+          "value": 9
+        },
+        {
+          "source": "Mme.Thenardier",
+          "target": "Fantine",
+          "value": 2
+        },
+        {
+          "source": "Mme.Thenardier",
+          "target": "Valjean",
+          "value": 7
+        },
+        {
+          "source": "Thenardier",
+          "target": "Mme.Thenardier",
+          "value": 13
+        },
+        {
+          "source": "Thenardier",
+          "target": "Fantine",
+          "value": 1
+        },
+        {
+          "source": "Thenardier",
+          "target": "Valjean",
+          "value": 12
+        },
+        {
+          "source": "Cosette",
+          "target": "Mme.Thenardier",
+          "value": 4
+        },
+        {
+          "source": "Cosette",
+          "target": "Valjean",
+          "value": 31
+        },
+        {
+          "source": "Cosette",
+          "target": "Tholomyes",
+          "value": 1
+        },
+        {
+          "source": "Cosette",
+          "target": "Thenardier",
+          "value": 1
+        },
+        {
+          "source": "Javert",
+          "target": "Valjean",
+          "value": 17
+        },
+        {
+          "source": "Javert",
+          "target": "Fantine",
+          "value": 5
+        },
+        {
+          "source": "Javert",
+          "target": "Thenardier",
+          "value": 5
+        },
+        {
+          "source": "Javert",
+          "target": "Mme.Thenardier",
+          "value": 1
+        },
+        {
+          "source": "Javert",
+          "target": "Cosette",
+          "value": 1
+        },
+        {
+          "source": "Fauchelevent",
+          "target": "Valjean",
+          "value": 8
+        },
+        {
+          "source": "Fauchelevent",
+          "target": "Javert",
+          "value": 1
+        },
+        {
+          "source": "Bamatabois",
+          "target": "Fantine",
+          "value": 1
+        },
+        {
+          "source": "Bamatabois",
+          "target": "Javert",
+          "value": 1
+        },
+        {
+          "source": "Bamatabois",
+          "target": "Valjean",
+          "value": 2
+        },
+        {
+          "source": "Perpetue",
+          "target": "Fantine",
+          "value": 1
+        },
+        {
+          "source": "Simplice",
+          "target": "Perpetue",
+          "value": 2
+        },
+        {
+          "source": "Simplice",
+          "target": "Valjean",
+          "value": 3
+        },
+        {
+          "source": "Simplice",
+          "target": "Fantine",
+          "value": 2
+        },
+        {
+          "source": "Simplice",
+          "target": "Javert",
+          "value": 1
+        },
+        {
+          "source": "Scaufflaire",
+          "target": "Valjean",
+          "value": 1
+        },
+        {
+          "source": "Woman1",
+          "target": "Valjean",
+          "value": 2
+        },
+        {
+          "source": "Woman1",
+          "target": "Javert",
+          "value": 1
+        },
+        {
+          "source": "Judge",
+          "target": "Valjean",
+          "value": 3
+        },
+        {
+          "source": "Judge",
+          "target": "Bamatabois",
+          "value": 2
+        },
+        {
+          "source": "Champmathieu",
+          "target": "Valjean",
+          "value": 3
+        },
+        {
+          "source": "Champmathieu",
+          "target": "Judge",
+          "value": 3
+        },
+        {
+          "source": "Champmathieu",
+          "target": "Bamatabois",
+          "value": 2
+        },
+        {
+          "source": "Brevet",
+          "target": "Judge",
+          "value": 2
+        },
+        {
+          "source": "Brevet",
+          "target": "Champmathieu",
+          "value": 2
+        },
+        {
+          "source": "Brevet",
+          "target": "Valjean",
+          "value": 2
+        },
+        {
+          "source": "Brevet",
+          "target": "Bamatabois",
+          "value": 1
+        },
+        {
+          "source": "Chenildieu",
+          "target": "Judge",
+          "value": 2
+        },
+        {
+          "source": "Chenildieu",
+          "target": "Champmathieu",
+          "value": 2
+        },
+        {
+          "source": "Chenildieu",
+          "target": "Brevet",
+          "value": 2
+        },
+        {
+          "source": "Chenildieu",
+          "target": "Valjean",
+          "value": 2
+        },
+        {
+          "source": "Chenildieu",
+          "target": "Bamatabois",
+          "value": 1
+        },
+        {
+          "source": "Cochepaille",
+          "target": "Judge",
+          "value": 2
+        },
+        {
+          "source": "Cochepaille",
+          "target": "Champmathieu",
+          "value": 2
+        },
+        {
+          "source": "Cochepaille",
+          "target": "Brevet",
+          "value": 2
+        },
+        {
+          "source": "Cochepaille",
+          "target": "Chenildieu",
+          "value": 2
+        },
+        {
+          "source": "Cochepaille",
+          "target": "Valjean",
+          "value": 2
+        },
+        {
+          "source": "Cochepaille",
+          "target": "Bamatabois",
+          "value": 1
+        },
+        {
+          "source": "Pontmercy",
+          "target": "Thenardier",
+          "value": 1
+        },
+        {
+          "source": "Boulatruelle",
+          "target": "Thenardier",
+          "value": 1
+        },
+        {
+          "source": "Eponine",
+          "target": "Mme.Thenardier",
+          "value": 2
+        },
+        {
+          "source": "Eponine",
+          "target": "Thenardier",
+          "value": 3
+        },
+        {
+          "source": "Anzelma",
+          "target": "Eponine",
+          "value": 2
+        },
+        {
+          "source": "Anzelma",
+          "target": "Thenardier",
+          "value": 2
+        },
+        {
+          "source": "Anzelma",
+          "target": "Mme.Thenardier",
+          "value": 1
+        },
+        {
+          "source": "Woman2",
+          "target": "Valjean",
+          "value": 3
+        },
+        {
+          "source": "Woman2",
+          "target": "Cosette",
+          "value": 1
+        },
+        {
+          "source": "Woman2",
+          "target": "Javert",
+          "value": 1
+        },
+        {
+          "source": "MotherInnocent",
+          "target": "Fauchelevent",
+          "value": 3
+        },
+        {
+          "source": "MotherInnocent",
+          "target": "Valjean",
+          "value": 1
+        },
+        {
+          "source": "Gribier",
+          "target": "Fauchelevent",
+          "value": 2
+        },
+        {
+          "source": "Mme.Burgon",
+          "target": "Jondrette",
+          "value": 1
+        },
+        {
+          "source": "Gavroche",
+          "target": "Mme.Burgon",
+          "value": 2
+        },
+        {
+          "source": "Gavroche",
+          "target": "Thenardier",
+          "value": 1
+        },
+        {
+          "source": "Gavroche",
+          "target": "Javert",
+          "value": 1
+        },
+        {
+          "source": "Gavroche",
+          "target": "Valjean",
+          "value": 1
+        },
+        {
+          "source": "Gillenormand",
+          "target": "Cosette",
+          "value": 3
+        },
+        {
+          "source": "Gillenormand",
+          "target": "Valjean",
+          "value": 2
+        },
+        {
+          "source": "Magnon",
+          "target": "Gillenormand",
+          "value": 1
+        },
+        {
+          "source": "Magnon",
+          "target": "Mme.Thenardier",
+          "value": 1
+        },
+        {
+          "source": "Mlle.Gillenormand",
+          "target": "Gillenormand",
+          "value": 9
+        },
+        {
+          "source": "Mlle.Gillenormand",
+          "target": "Cosette",
+          "value": 2
+        },
+        {
+          "source": "Mlle.Gillenormand",
+          "target": "Valjean",
+          "value": 2
+        },
+        {
+          "source": "Mme.Pontmercy",
+          "target": "Mlle.Gillenormand",
+          "value": 1
+        },
+        {
+          "source": "Mme.Pontmercy",
+          "target": "Pontmercy",
+          "value": 1
+        },
+        {
+          "source": "Mlle.Vaubois",
+          "target": "Mlle.Gillenormand",
+          "value": 1
+        },
+        {
+          "source": "Lt.Gillenormand",
+          "target": "Mlle.Gillenormand",
+          "value": 2
+        },
+        {
+          "source": "Lt.Gillenormand",
+          "target": "Gillenormand",
+          "value": 1
+        },
+        {
+          "source": "Lt.Gillenormand",
+          "target": "Cosette",
+          "value": 1
+        },
+        {
+          "source": "Marius",
+          "target": "Mlle.Gillenormand",
+          "value": 6
+        },
+        {
+          "source": "Marius",
+          "target": "Gillenormand",
+          "value": 12
+        },
+        {
+          "source": "Marius",
+          "target": "Pontmercy",
+          "value": 1
+        },
+        {
+          "source": "Marius",
+          "target": "Lt.Gillenormand",
+          "value": 1
+        },
+        {
+          "source": "Marius",
+          "target": "Cosette",
+          "value": 21
+        },
+        {
+          "source": "Marius",
+          "target": "Valjean",
+          "value": 19
+        },
+        {
+          "source": "Marius",
+          "target": "Tholomyes",
+          "value": 1
+        },
+        {
+          "source": "Marius",
+          "target": "Thenardier",
+          "value": 2
+        },
+        {
+          "source": "Marius",
+          "target": "Eponine",
+          "value": 5
+        },
+        {
+          "source": "Marius",
+          "target": "Gavroche",
+          "value": 4
+        },
+        {
+          "source": "BaronessT",
+          "target": "Gillenormand",
+          "value": 1
+        },
+        {
+          "source": "BaronessT",
+          "target": "Marius",
+          "value": 1
+        },
+        {
+          "source": "Mabeuf",
+          "target": "Marius",
+          "value": 1
+        },
+        {
+          "source": "Mabeuf",
+          "target": "Eponine",
+          "value": 1
+        },
+        {
+          "source": "Mabeuf",
+          "target": "Gavroche",
+          "value": 1
+        },
+        {
+          "source": "Enjolras",
+          "target": "Marius",
+          "value": 7
+        },
+        {
+          "source": "Enjolras",
+          "target": "Gavroche",
+          "value": 7
+        },
+        {
+          "source": "Enjolras",
+          "target": "Javert",
+          "value": 6
+        },
+        {
+          "source": "Enjolras",
+          "target": "Mabeuf",
+          "value": 1
+        },
+        {
+          "source": "Enjolras",
+          "target": "Valjean",
+          "value": 4
+        },
+        {
+          "source": "Combeferre",
+          "target": "Enjolras",
+          "value": 15
+        },
+        {
+          "source": "Combeferre",
+          "target": "Marius",
+          "value": 5
+        },
+        {
+          "source": "Combeferre",
+          "target": "Gavroche",
+          "value": 6
+        },
+        {
+          "source": "Combeferre",
+          "target": "Mabeuf",
+          "value": 2
+        },
+        {
+          "source": "Prouvaire",
+          "target": "Gavroche",
+          "value": 1
+        },
+        {
+          "source": "Prouvaire",
+          "target": "Enjolras",
+          "value": 4
+        },
+        {
+          "source": "Prouvaire",
+          "target": "Combeferre",
+          "value": 2
+        },
+        {
+          "source": "Feuilly",
+          "target": "Gavroche",
+          "value": 2
+        },
+        {
+          "source": "Feuilly",
+          "target": "Enjolras",
+          "value": 6
+        },
+        {
+          "source": "Feuilly",
+          "target": "Prouvaire",
+          "value": 2
+        },
+        {
+          "source": "Feuilly",
+          "target": "Combeferre",
+          "value": 5
+        },
+        {
+          "source": "Feuilly",
+          "target": "Mabeuf",
+          "value": 1
+        },
+        {
+          "source": "Feuilly",
+          "target": "Marius",
+          "value": 1
+        },
+        {
+          "source": "Courfeyrac",
+          "target": "Marius",
+          "value": 9
+        },
+        {
+          "source": "Courfeyrac",
+          "target": "Enjolras",
+          "value": 17
+        },
+        {
+          "source": "Courfeyrac",
+          "target": "Combeferre",
+          "value": 13
+        },
+        {
+          "source": "Courfeyrac",
+          "target": "Gavroche",
+          "value": 7
+        },
+        {
+          "source": "Courfeyrac",
+          "target": "Mabeuf",
+          "value": 2
+        },
+        {
+          "source": "Courfeyrac",
+          "target": "Eponine",
+          "value": 1
+        },
+        {
+          "source": "Courfeyrac",
+          "target": "Feuilly",
+          "value": 6
+        },
+        {
+          "source": "Courfeyrac",
+          "target": "Prouvaire",
+          "value": 3
+        },
+        {
+          "source": "Bahorel",
+          "target": "Combeferre",
+          "value": 5
+        },
+        {
+          "source": "Bahorel",
+          "target": "Gavroche",
+          "value": 5
+        },
+        {
+          "source": "Bahorel",
+          "target": "Courfeyrac",
+          "value": 6
+        },
+        {
+          "source": "Bahorel",
+          "target": "Mabeuf",
+          "value": 2
+        },
+        {
+          "source": "Bahorel",
+          "target": "Enjolras",
+          "value": 4
+        },
+        {
+          "source": "Bahorel",
+          "target": "Feuilly",
+          "value": 3
+        },
+        {
+          "source": "Bahorel",
+          "target": "Prouvaire",
+          "value": 2
+        },
+        {
+          "source": "Bahorel",
+          "target": "Marius",
+          "value": 1
+        },
+        {
+          "source": "Bossuet",
+          "target": "Marius",
+          "value": 5
+        },
+        {
+          "source": "Bossuet",
+          "target": "Courfeyrac",
+          "value": 12
+        },
+        {
+          "source": "Bossuet",
+          "target": "Gavroche",
+          "value": 5
+        },
+        {
+          "source": "Bossuet",
+          "target": "Bahorel",
+          "value": 4
+        },
+        {
+          "source": "Bossuet",
+          "target": "Enjolras",
+          "value": 10
+        },
+        {
+          "source": "Bossuet",
+          "target": "Feuilly",
+          "value": 6
+        },
+        {
+          "source": "Bossuet",
+          "target": "Prouvaire",
+          "value": 2
+        },
+        {
+          "source": "Bossuet",
+          "target": "Combeferre",
+          "value": 9
+        },
+        {
+          "source": "Bossuet",
+          "target": "Mabeuf",
+          "value": 1
+        },
+        {
+          "source": "Bossuet",
+          "target": "Valjean",
+          "value": 1
+        },
+        {
+          "source": "Joly",
+          "target": "Bahorel",
+          "value": 5
+        },
+        {
+          "source": "Joly",
+          "target": "Bossuet",
+          "value": 7
+        },
+        {
+          "source": "Joly",
+          "target": "Gavroche",
+          "value": 3
+        },
+        {
+          "source": "Joly",
+          "target": "Courfeyrac",
+          "value": 5
+        },
+        {
+          "source": "Joly",
+          "target": "Enjolras",
+          "value": 5
+        },
+        {
+          "source": "Joly",
+          "target": "Feuilly",
+          "value": 5
+        },
+        {
+          "source": "Joly",
+          "target": "Prouvaire",
+          "value": 2
+        },
+        {
+          "source": "Joly",
+          "target": "Combeferre",
+          "value": 5
+        },
+        {
+          "source": "Joly",
+          "target": "Mabeuf",
+          "value": 1
+        },
+        {
+          "source": "Joly",
+          "target": "Marius",
+          "value": 2
+        },
+        {
+          "source": "Grantaire",
+          "target": "Bossuet",
+          "value": 3
+        },
+        {
+          "source": "Grantaire",
+          "target": "Enjolras",
+          "value": 3
+        },
+        {
+          "source": "Grantaire",
+          "target": "Combeferre",
+          "value": 1
+        },
+        {
+          "source": "Grantaire",
+          "target": "Courfeyrac",
+          "value": 2
+        },
+        {
+          "source": "Grantaire",
+          "target": "Joly",
+          "value": 2
+        },
+        {
+          "source": "Grantaire",
+          "target": "Gavroche",
+          "value": 1
+        },
+        {
+          "source": "Grantaire",
+          "target": "Bahorel",
+          "value": 1
+        },
+        {
+          "source": "Grantaire",
+          "target": "Feuilly",
+          "value": 1
+        },
+        {
+          "source": "Grantaire",
+          "target": "Prouvaire",
+          "value": 1
+        },
+        {
+          "source": "MotherPlutarch",
+          "target": "Mabeuf",
+          "value": 3
+        },
+        {
+          "source": "Gueulemer",
+          "target": "Thenardier",
+          "value": 5
+        },
+        {
+          "source": "Gueulemer",
+          "target": "Valjean",
+          "value": 1
+        },
+        {
+          "source": "Gueulemer",
+          "target": "Mme.Thenardier",
+          "value": 1
+        },
+        {
+          "source": "Gueulemer",
+          "target": "Javert",
+          "value": 1
+        },
+        {
+          "source": "Gueulemer",
+          "target": "Gavroche",
+          "value": 1
+        },
+        {
+          "source": "Gueulemer",
+          "target": "Eponine",
+          "value": 1
+        },
+        {
+          "source": "Babet",
+          "target": "Thenardier",
+          "value": 6
+        },
+        {
+          "source": "Babet",
+          "target": "Gueulemer",
+          "value": 6
+        },
+        {
+          "source": "Babet",
+          "target": "Valjean",
+          "value": 1
+        },
+        {
+          "source": "Babet",
+          "target": "Mme.Thenardier",
+          "value": 1
+        },
+        {
+          "source": "Babet",
+          "target": "Javert",
+          "value": 2
+        },
+        {
+          "source": "Babet",
+          "target": "Gavroche",
+          "value": 1
+        },
+        {
+          "source": "Babet",
+          "target": "Eponine",
+          "value": 1
+        },
+        {
+          "source": "Claquesous",
+          "target": "Thenardier",
+          "value": 4
+        },
+        {
+          "source": "Claquesous",
+          "target": "Babet",
+          "value": 4
+        },
+        {
+          "source": "Claquesous",
+          "target": "Gueulemer",
+          "value": 4
+        },
+        {
+          "source": "Claquesous",
+          "target": "Valjean",
+          "value": 1
+        },
+        {
+          "source": "Claquesous",
+          "target": "Mme.Thenardier",
+          "value": 1
+        },
+        {
+          "source": "Claquesous",
+          "target": "Javert",
+          "value": 1
+        },
+        {
+          "source": "Claquesous",
+          "target": "Eponine",
+          "value": 1
+        },
+        {
+          "source": "Claquesous",
+          "target": "Enjolras",
+          "value": 1
+        },
+        {
+          "source": "Montparnasse",
+          "target": "Javert",
+          "value": 1
+        },
+        {
+          "source": "Montparnasse",
+          "target": "Babet",
+          "value": 2
+        },
+        {
+          "source": "Montparnasse",
+          "target": "Gueulemer",
+          "value": 2
+        },
+        {
+          "source": "Montparnasse",
+          "target": "Claquesous",
+          "value": 2
+        },
+        {
+          "source": "Montparnasse",
+          "target": "Valjean",
+          "value": 1
+        },
+        {
+          "source": "Montparnasse",
+          "target": "Gavroche",
+          "value": 1
+        },
+        {
+          "source": "Montparnasse",
+          "target": "Eponine",
+          "value": 1
+        },
+        {
+          "source": "Montparnasse",
+          "target": "Thenardier",
+          "value": 1
+        },
+        {
+          "source": "Toussaint",
+          "target": "Cosette",
+          "value": 2
+        },
+        {
+          "source": "Toussaint",
+          "target": "Javert",
+          "value": 1
+        },
+        {
+          "source": "Toussaint",
+          "target": "Valjean",
+          "value": 1
+        },
+        {
+          "source": "Child1",
+          "target": "Gavroche",
+          "value": 2
+        },
+        {
+          "source": "Child2",
+          "target": "Gavroche",
+          "value": 2
+        },
+        {
+          "source": "Child2",
+          "target": "Child1",
+          "value": 3
+        },
+        {
+          "source": "Brujon",
+          "target": "Babet",
+          "value": 3
+        },
+        {
+          "source": "Brujon",
+          "target": "Gueulemer",
+          "value": 3
+        },
+        {
+          "source": "Brujon",
+          "target": "Thenardier",
+          "value": 3
+        },
+        {
+          "source": "Brujon",
+          "target": "Gavroche",
+          "value": 1
+        },
+        {
+          "source": "Brujon",
+          "target": "Eponine",
+          "value": 1
+        },
+        {
+          "source": "Brujon",
+          "target": "Claquesous",
+          "value": 1
+        },
+        {
+          "source": "Brujon",
+          "target": "Montparnasse",
+          "value": 1
+        },
+        {
+          "source": "Mme.Hucheloup",
+          "target": "Bossuet",
+          "value": 1
+        },
+        {
+          "source": "Mme.Hucheloup",
+          "target": "Joly",
+          "value": 1
+        },
+        {
+          "source": "Mme.Hucheloup",
+          "target": "Grantaire",
+          "value": 1
+        },
+        {
+          "source": "Mme.Hucheloup",
+          "target": "Bahorel",
+          "value": 1
+        },
+        {
+          "source": "Mme.Hucheloup",
+          "target": "Courfeyrac",
+          "value": 1
+        },
+        {
+          "source": "Mme.Hucheloup",
+          "target": "Gavroche",
+          "value": 1
+        },
+        {
+          "source": "Mme.Hucheloup",
+          "target": "Enjolras",
+          "value": 1
+        }
+      ]
+    },
+    "selection": [],
+    "encoding": {
+      "nodeFillColor": {
+        "r": 0.14,
+        "g": 0.56,
+        "b": 0.78,
+        "a": 1
+      },
+      "nodeStrokeColor": {
+        "r": 0.78,
+        "g": 0.14,
+        "b": 0.56,
+        "a": 0.2
+      },
+      "linkStrokeColor": {
+        "r": 0.6,
+        "g": 0.6,
+        "b": 0.6,
+        "a": 0.5
+      },
+      "nodeStrokeWidth": 1,
+      "nodeRadius": 5
+    }
+  },
+  "HeaderComponent": {
+    "encoding": {
+      "weight": "normal",
+      "size": 20,
+      "align": "center",
+      "text": "Header"
+    }
+  },
+  "HeatChart1D": {
+    "data": [
+      {
+        "acceleration": 12,
+        "mpg": 18,
+        "car name": "chevrolet chevelle malibu",
+        "cylinders": 8,
+        "weight": 3504,
+        "displacement": 307,
+        "horsepower": 130,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg0"
+      },
+      {
+        "acceleration": 11.5,
+        "mpg": 15,
+        "car name": "buick skylark 320",
+        "cylinders": 8,
+        "weight": 3693,
+        "displacement": 350,
+        "horsepower": 165,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg1"
+      },
+      {
+        "acceleration": 11,
+        "mpg": 18,
+        "car name": "plymouth satellite",
+        "cylinders": 8,
+        "weight": 3436,
+        "displacement": 318,
+        "horsepower": 150,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg2"
+      },
+      {
+        "acceleration": 12,
+        "mpg": 16,
+        "car name": "amc rebel sst",
+        "cylinders": 8,
+        "weight": 3433,
+        "displacement": 304,
+        "horsepower": 150,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg3"
+      },
+      {
+        "acceleration": 10.5,
+        "mpg": 17,
+        "car name": "ford torino",
+        "cylinders": 8,
+        "weight": 3449,
+        "displacement": 302,
+        "horsepower": 140,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg4"
+      },
+      {
+        "acceleration": 10,
+        "mpg": 15,
+        "car name": "ford galaxie 500",
+        "cylinders": 8,
+        "weight": 4341,
+        "displacement": 429,
+        "horsepower": 198,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg5"
+      },
+      {
+        "acceleration": 9,
+        "mpg": 14,
+        "car name": "chevrolet impala",
+        "cylinders": 8,
+        "weight": 4354,
+        "displacement": 454,
+        "horsepower": 220,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg6"
+      },
+      {
+        "acceleration": 8.5,
+        "mpg": 14,
+        "car name": "plymouth fury iii",
+        "cylinders": 8,
+        "weight": 4312,
+        "displacement": 440,
+        "horsepower": 215,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg7"
+      },
+      {
+        "acceleration": 10,
+        "mpg": 14,
+        "car name": "pontiac catalina",
+        "cylinders": 8,
+        "weight": 4425,
+        "displacement": 455,
+        "horsepower": 225,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg8"
+      },
+      {
+        "acceleration": 8.5,
+        "mpg": 15,
+        "car name": "amc ambassador dpl",
+        "cylinders": 8,
+        "weight": 3850,
+        "displacement": 390,
+        "horsepower": 190,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg9"
+      },
+      {
+        "acceleration": 10,
+        "mpg": 15,
+        "car name": "dodge challenger se",
+        "cylinders": 8,
+        "weight": 3563,
+        "displacement": 383,
+        "horsepower": 170,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg10"
+      },
+      {
+        "acceleration": 8,
+        "mpg": 14,
+        "car name": "plymouth cuda 340",
+        "cylinders": 8,
+        "weight": 3609,
+        "displacement": 340,
+        "horsepower": 160,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg11"
+      },
+      {
+        "acceleration": 9.5,
+        "mpg": 15,
+        "car name": "chevrolet monte carlo",
+        "cylinders": 8,
+        "weight": 3761,
+        "displacement": 400,
+        "horsepower": 150,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg12"
+      },
+      {
+        "acceleration": 10,
+        "mpg": 14,
+        "car name": "buick estate wagon (sw)",
+        "cylinders": 8,
+        "weight": 3086,
+        "displacement": 455,
+        "horsepower": 225,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg13"
+      },
+      {
+        "acceleration": 15,
+        "mpg": 24,
+        "car name": "toyota corona mark ii",
+        "cylinders": 4,
+        "weight": 2372,
+        "displacement": 113,
+        "horsepower": 95,
+        "model year": 70,
+        "origin": 3,
+        "_key": "mpg14"
+      },
+      {
+        "acceleration": 15.5,
+        "mpg": 22,
+        "car name": "plymouth duster",
+        "cylinders": 6,
+        "weight": 2833,
+        "displacement": 198,
+        "horsepower": 95,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg15"
+      },
+      {
+        "acceleration": 15.5,
+        "mpg": 18,
+        "car name": "amc hornet",
+        "cylinders": 6,
+        "weight": 2774,
+        "displacement": 199,
+        "horsepower": 97,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg16"
+      },
+      {
+        "acceleration": 16,
+        "mpg": 21,
+        "car name": "ford maverick",
+        "cylinders": 6,
+        "weight": 2587,
+        "displacement": 200,
+        "horsepower": 85,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg17"
+      },
+      {
+        "acceleration": 14.5,
+        "mpg": 27,
+        "car name": "datsun pl510",
+        "cylinders": 4,
+        "weight": 2130,
+        "displacement": 97,
+        "horsepower": 88,
+        "model year": 70,
+        "origin": 3,
+        "_key": "mpg18"
+      },
+      {
+        "acceleration": 20.5,
+        "mpg": 26,
+        "car name": "volkswagen 1131 deluxe sedan",
+        "cylinders": 4,
+        "weight": 1835,
+        "displacement": 97,
+        "horsepower": 46,
+        "model year": 70,
+        "origin": 2,
+        "_key": "mpg19"
+      },
+      {
+        "acceleration": 17.5,
+        "mpg": 25,
+        "car name": "peugeot 504",
+        "cylinders": 4,
+        "weight": 2672,
+        "displacement": 110,
+        "horsepower": 87,
+        "model year": 70,
+        "origin": 2,
+        "_key": "mpg20"
+      },
+      {
+        "acceleration": 14.5,
+        "mpg": 24,
+        "car name": "audi 100 ls",
+        "cylinders": 4,
+        "weight": 2430,
+        "displacement": 107,
+        "horsepower": 90,
+        "model year": 70,
+        "origin": 2,
+        "_key": "mpg21"
+      },
+      {
+        "acceleration": 17.5,
+        "mpg": 25,
+        "car name": "saab 99e",
+        "cylinders": 4,
+        "weight": 2375,
+        "displacement": 104,
+        "horsepower": 95,
+        "model year": 70,
+        "origin": 2,
+        "_key": "mpg22"
+      },
+      {
+        "acceleration": 12.5,
+        "mpg": 26,
+        "car name": "bmw 2002",
+        "cylinders": 4,
+        "weight": 2234,
+        "displacement": 121,
+        "horsepower": 113,
+        "model year": 70,
+        "origin": 2,
+        "_key": "mpg23"
+      },
+      {
+        "acceleration": 15,
+        "mpg": 21,
+        "car name": "amc gremlin",
+        "cylinders": 6,
+        "weight": 2648,
+        "displacement": 199,
+        "horsepower": 90,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg24"
+      },
+      {
+        "acceleration": 14,
+        "mpg": 10,
+        "car name": "ford f250",
+        "cylinders": 8,
+        "weight": 4615,
+        "displacement": 360,
+        "horsepower": 215,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg25"
+      },
+      {
+        "acceleration": 15,
+        "mpg": 10,
+        "car name": "chevy c20",
+        "cylinders": 8,
+        "weight": 4376,
+        "displacement": 307,
+        "horsepower": 200,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg26"
+      },
+      {
+        "acceleration": 13.5,
+        "mpg": 11,
+        "car name": "dodge d200",
+        "cylinders": 8,
+        "weight": 4382,
+        "displacement": 318,
+        "horsepower": 210,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg27"
+      },
+      {
+        "acceleration": 18.5,
+        "mpg": 9,
+        "car name": "hi 1200d",
+        "cylinders": 8,
+        "weight": 4732,
+        "displacement": 304,
+        "horsepower": 193,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg28"
+      },
+      {
+        "acceleration": 14.5,
+        "mpg": 27,
+        "car name": "datsun pl510",
+        "cylinders": 4,
+        "weight": 2130,
+        "displacement": 97,
+        "horsepower": 88,
+        "model year": 71,
+        "origin": 3,
+        "_key": "mpg29"
+      }
+    ],
+    "selection": [],
+    "encoding": {
+      "x": "weight",
+      "count": 20,
+      "bottomEdge": "bottom",
+      "bgColor": "white",
+      "color": "green",
+      "xAxisSpace": 20,
+      "margin": 10,
+      "axisSwitch": true
+    }
+  },
+  "HeatChart1DRadial": {
+    "data": [
+      {
+        "acceleration": 12,
+        "mpg": 18,
+        "car name": "chevrolet chevelle malibu",
+        "cylinders": 8,
+        "weight": 3504,
+        "displacement": 307,
+        "horsepower": 130,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg0"
+      },
+      {
+        "acceleration": 11.5,
+        "mpg": 15,
+        "car name": "buick skylark 320",
+        "cylinders": 8,
+        "weight": 3693,
+        "displacement": 350,
+        "horsepower": 165,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg1"
+      },
+      {
+        "acceleration": 11,
+        "mpg": 18,
+        "car name": "plymouth satellite",
+        "cylinders": 8,
+        "weight": 3436,
+        "displacement": 318,
+        "horsepower": 150,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg2"
+      },
+      {
+        "acceleration": 12,
+        "mpg": 16,
+        "car name": "amc rebel sst",
+        "cylinders": 8,
+        "weight": 3433,
+        "displacement": 304,
+        "horsepower": 150,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg3"
+      },
+      {
+        "acceleration": 10.5,
+        "mpg": 17,
+        "car name": "ford torino",
+        "cylinders": 8,
+        "weight": 3449,
+        "displacement": 302,
+        "horsepower": 140,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg4"
+      },
+      {
+        "acceleration": 10,
+        "mpg": 15,
+        "car name": "ford galaxie 500",
+        "cylinders": 8,
+        "weight": 4341,
+        "displacement": 429,
+        "horsepower": 198,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg5"
+      },
+      {
+        "acceleration": 9,
+        "mpg": 14,
+        "car name": "chevrolet impala",
+        "cylinders": 8,
+        "weight": 4354,
+        "displacement": 454,
+        "horsepower": 220,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg6"
+      },
+      {
+        "acceleration": 8.5,
+        "mpg": 14,
+        "car name": "plymouth fury iii",
+        "cylinders": 8,
+        "weight": 4312,
+        "displacement": 440,
+        "horsepower": 215,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg7"
+      },
+      {
+        "acceleration": 10,
+        "mpg": 14,
+        "car name": "pontiac catalina",
+        "cylinders": 8,
+        "weight": 4425,
+        "displacement": 455,
+        "horsepower": 225,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg8"
+      },
+      {
+        "acceleration": 8.5,
+        "mpg": 15,
+        "car name": "amc ambassador dpl",
+        "cylinders": 8,
+        "weight": 3850,
+        "displacement": 390,
+        "horsepower": 190,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg9"
+      },
+      {
+        "acceleration": 10,
+        "mpg": 15,
+        "car name": "dodge challenger se",
+        "cylinders": 8,
+        "weight": 3563,
+        "displacement": 383,
+        "horsepower": 170,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg10"
+      },
+      {
+        "acceleration": 8,
+        "mpg": 14,
+        "car name": "plymouth cuda 340",
+        "cylinders": 8,
+        "weight": 3609,
+        "displacement": 340,
+        "horsepower": 160,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg11"
+      },
+      {
+        "acceleration": 9.5,
+        "mpg": 15,
+        "car name": "chevrolet monte carlo",
+        "cylinders": 8,
+        "weight": 3761,
+        "displacement": 400,
+        "horsepower": 150,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg12"
+      },
+      {
+        "acceleration": 10,
+        "mpg": 14,
+        "car name": "buick estate wagon (sw)",
+        "cylinders": 8,
+        "weight": 3086,
+        "displacement": 455,
+        "horsepower": 225,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg13"
+      },
+      {
+        "acceleration": 15,
+        "mpg": 24,
+        "car name": "toyota corona mark ii",
+        "cylinders": 4,
+        "weight": 2372,
+        "displacement": 113,
+        "horsepower": 95,
+        "model year": 70,
+        "origin": 3,
+        "_key": "mpg14"
+      },
+      {
+        "acceleration": 15.5,
+        "mpg": 22,
+        "car name": "plymouth duster",
+        "cylinders": 6,
+        "weight": 2833,
+        "displacement": 198,
+        "horsepower": 95,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg15"
+      },
+      {
+        "acceleration": 15.5,
+        "mpg": 18,
+        "car name": "amc hornet",
+        "cylinders": 6,
+        "weight": 2774,
+        "displacement": 199,
+        "horsepower": 97,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg16"
+      },
+      {
+        "acceleration": 16,
+        "mpg": 21,
+        "car name": "ford maverick",
+        "cylinders": 6,
+        "weight": 2587,
+        "displacement": 200,
+        "horsepower": 85,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg17"
+      },
+      {
+        "acceleration": 14.5,
+        "mpg": 27,
+        "car name": "datsun pl510",
+        "cylinders": 4,
+        "weight": 2130,
+        "displacement": 97,
+        "horsepower": 88,
+        "model year": 70,
+        "origin": 3,
+        "_key": "mpg18"
+      },
+      {
+        "acceleration": 20.5,
+        "mpg": 26,
+        "car name": "volkswagen 1131 deluxe sedan",
+        "cylinders": 4,
+        "weight": 1835,
+        "displacement": 97,
+        "horsepower": 46,
+        "model year": 70,
+        "origin": 2,
+        "_key": "mpg19"
+      },
+      {
+        "acceleration": 17.5,
+        "mpg": 25,
+        "car name": "peugeot 504",
+        "cylinders": 4,
+        "weight": 2672,
+        "displacement": 110,
+        "horsepower": 87,
+        "model year": 70,
+        "origin": 2,
+        "_key": "mpg20"
+      },
+      {
+        "acceleration": 14.5,
+        "mpg": 24,
+        "car name": "audi 100 ls",
+        "cylinders": 4,
+        "weight": 2430,
+        "displacement": 107,
+        "horsepower": 90,
+        "model year": 70,
+        "origin": 2,
+        "_key": "mpg21"
+      },
+      {
+        "acceleration": 17.5,
+        "mpg": 25,
+        "car name": "saab 99e",
+        "cylinders": 4,
+        "weight": 2375,
+        "displacement": 104,
+        "horsepower": 95,
+        "model year": 70,
+        "origin": 2,
+        "_key": "mpg22"
+      },
+      {
+        "acceleration": 12.5,
+        "mpg": 26,
+        "car name": "bmw 2002",
+        "cylinders": 4,
+        "weight": 2234,
+        "displacement": 121,
+        "horsepower": 113,
+        "model year": 70,
+        "origin": 2,
+        "_key": "mpg23"
+      },
+      {
+        "acceleration": 15,
+        "mpg": 21,
+        "car name": "amc gremlin",
+        "cylinders": 6,
+        "weight": 2648,
+        "displacement": 199,
+        "horsepower": 90,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg24"
+      },
+      {
+        "acceleration": 14,
+        "mpg": 10,
+        "car name": "ford f250",
+        "cylinders": 8,
+        "weight": 4615,
+        "displacement": 360,
+        "horsepower": 215,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg25"
+      },
+      {
+        "acceleration": 15,
+        "mpg": 10,
+        "car name": "chevy c20",
+        "cylinders": 8,
+        "weight": 4376,
+        "displacement": 307,
+        "horsepower": 200,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg26"
+      },
+      {
+        "acceleration": 13.5,
+        "mpg": 11,
+        "car name": "dodge d200",
+        "cylinders": 8,
+        "weight": 4382,
+        "displacement": 318,
+        "horsepower": 210,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg27"
+      },
+      {
+        "acceleration": 18.5,
+        "mpg": 9,
+        "car name": "hi 1200d",
+        "cylinders": 8,
+        "weight": 4732,
+        "displacement": 304,
+        "horsepower": 193,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg28"
+      },
+      {
+        "acceleration": 14.5,
+        "mpg": 27,
+        "car name": "datsun pl510",
+        "cylinders": 4,
+        "weight": 2130,
+        "displacement": 97,
+        "horsepower": 88,
+        "model year": 71,
+        "origin": 3,
+        "_key": "mpg29"
+      }
+    ],
+    "selection": [],
+    "encoding": {
+      "x": "weight",
+      "count": 20,
+      "bottomEdge": "bottom",
+      "bgColor": "white",
+      "color": "green",
+      "startAngle": 90,
+      "ringWidth": 0.4
+    }
+  },
+  "HeatChartMatrix": {
+    "data": [
+      {
+        "acceleration": 12,
+        "mpg": 18,
+        "car name": "chevrolet chevelle malibu",
+        "cylinders": 8,
+        "weight": 3504,
+        "displacement": 307,
+        "horsepower": 130,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg0"
+      },
+      {
+        "acceleration": 11.5,
+        "mpg": 15,
+        "car name": "buick skylark 320",
+        "cylinders": 8,
+        "weight": 3693,
+        "displacement": 350,
+        "horsepower": 165,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg1"
+      },
+      {
+        "acceleration": 11,
+        "mpg": 18,
+        "car name": "plymouth satellite",
+        "cylinders": 8,
+        "weight": 3436,
+        "displacement": 318,
+        "horsepower": 150,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg2"
+      },
+      {
+        "acceleration": 12,
+        "mpg": 16,
+        "car name": "amc rebel sst",
+        "cylinders": 8,
+        "weight": 3433,
+        "displacement": 304,
+        "horsepower": 150,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg3"
+      },
+      {
+        "acceleration": 10.5,
+        "mpg": 17,
+        "car name": "ford torino",
+        "cylinders": 8,
+        "weight": 3449,
+        "displacement": 302,
+        "horsepower": 140,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg4"
+      },
+      {
+        "acceleration": 10,
+        "mpg": 15,
+        "car name": "ford galaxie 500",
+        "cylinders": 8,
+        "weight": 4341,
+        "displacement": 429,
+        "horsepower": 198,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg5"
+      },
+      {
+        "acceleration": 9,
+        "mpg": 14,
+        "car name": "chevrolet impala",
+        "cylinders": 8,
+        "weight": 4354,
+        "displacement": 454,
+        "horsepower": 220,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg6"
+      },
+      {
+        "acceleration": 8.5,
+        "mpg": 14,
+        "car name": "plymouth fury iii",
+        "cylinders": 8,
+        "weight": 4312,
+        "displacement": 440,
+        "horsepower": 215,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg7"
+      },
+      {
+        "acceleration": 10,
+        "mpg": 14,
+        "car name": "pontiac catalina",
+        "cylinders": 8,
+        "weight": 4425,
+        "displacement": 455,
+        "horsepower": 225,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg8"
+      },
+      {
+        "acceleration": 8.5,
+        "mpg": 15,
+        "car name": "amc ambassador dpl",
+        "cylinders": 8,
+        "weight": 3850,
+        "displacement": 390,
+        "horsepower": 190,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg9"
+      },
+      {
+        "acceleration": 10,
+        "mpg": 15,
+        "car name": "dodge challenger se",
+        "cylinders": 8,
+        "weight": 3563,
+        "displacement": 383,
+        "horsepower": 170,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg10"
+      },
+      {
+        "acceleration": 8,
+        "mpg": 14,
+        "car name": "plymouth cuda 340",
+        "cylinders": 8,
+        "weight": 3609,
+        "displacement": 340,
+        "horsepower": 160,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg11"
+      },
+      {
+        "acceleration": 9.5,
+        "mpg": 15,
+        "car name": "chevrolet monte carlo",
+        "cylinders": 8,
+        "weight": 3761,
+        "displacement": 400,
+        "horsepower": 150,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg12"
+      },
+      {
+        "acceleration": 10,
+        "mpg": 14,
+        "car name": "buick estate wagon (sw)",
+        "cylinders": 8,
+        "weight": 3086,
+        "displacement": 455,
+        "horsepower": 225,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg13"
+      },
+      {
+        "acceleration": 15,
+        "mpg": 24,
+        "car name": "toyota corona mark ii",
+        "cylinders": 4,
+        "weight": 2372,
+        "displacement": 113,
+        "horsepower": 95,
+        "model year": 70,
+        "origin": 3,
+        "_key": "mpg14"
+      },
+      {
+        "acceleration": 15.5,
+        "mpg": 22,
+        "car name": "plymouth duster",
+        "cylinders": 6,
+        "weight": 2833,
+        "displacement": 198,
+        "horsepower": 95,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg15"
+      },
+      {
+        "acceleration": 15.5,
+        "mpg": 18,
+        "car name": "amc hornet",
+        "cylinders": 6,
+        "weight": 2774,
+        "displacement": 199,
+        "horsepower": 97,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg16"
+      },
+      {
+        "acceleration": 16,
+        "mpg": 21,
+        "car name": "ford maverick",
+        "cylinders": 6,
+        "weight": 2587,
+        "displacement": 200,
+        "horsepower": 85,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg17"
+      },
+      {
+        "acceleration": 14.5,
+        "mpg": 27,
+        "car name": "datsun pl510",
+        "cylinders": 4,
+        "weight": 2130,
+        "displacement": 97,
+        "horsepower": 88,
+        "model year": 70,
+        "origin": 3,
+        "_key": "mpg18"
+      },
+      {
+        "acceleration": 20.5,
+        "mpg": 26,
+        "car name": "volkswagen 1131 deluxe sedan",
+        "cylinders": 4,
+        "weight": 1835,
+        "displacement": 97,
+        "horsepower": 46,
+        "model year": 70,
+        "origin": 2,
+        "_key": "mpg19"
+      },
+      {
+        "acceleration": 17.5,
+        "mpg": 25,
+        "car name": "peugeot 504",
+        "cylinders": 4,
+        "weight": 2672,
+        "displacement": 110,
+        "horsepower": 87,
+        "model year": 70,
+        "origin": 2,
+        "_key": "mpg20"
+      },
+      {
+        "acceleration": 14.5,
+        "mpg": 24,
+        "car name": "audi 100 ls",
+        "cylinders": 4,
+        "weight": 2430,
+        "displacement": 107,
+        "horsepower": 90,
+        "model year": 70,
+        "origin": 2,
+        "_key": "mpg21"
+      },
+      {
+        "acceleration": 17.5,
+        "mpg": 25,
+        "car name": "saab 99e",
+        "cylinders": 4,
+        "weight": 2375,
+        "displacement": 104,
+        "horsepower": 95,
+        "model year": 70,
+        "origin": 2,
+        "_key": "mpg22"
+      },
+      {
+        "acceleration": 12.5,
+        "mpg": 26,
+        "car name": "bmw 2002",
+        "cylinders": 4,
+        "weight": 2234,
+        "displacement": 121,
+        "horsepower": 113,
+        "model year": 70,
+        "origin": 2,
+        "_key": "mpg23"
+      },
+      {
+        "acceleration": 15,
+        "mpg": 21,
+        "car name": "amc gremlin",
+        "cylinders": 6,
+        "weight": 2648,
+        "displacement": 199,
+        "horsepower": 90,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg24"
+      },
+      {
+        "acceleration": 14,
+        "mpg": 10,
+        "car name": "ford f250",
+        "cylinders": 8,
+        "weight": 4615,
+        "displacement": 360,
+        "horsepower": 215,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg25"
+      },
+      {
+        "acceleration": 15,
+        "mpg": 10,
+        "car name": "chevy c20",
+        "cylinders": 8,
+        "weight": 4376,
+        "displacement": 307,
+        "horsepower": 200,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg26"
+      },
+      {
+        "acceleration": 13.5,
+        "mpg": 11,
+        "car name": "dodge d200",
+        "cylinders": 8,
+        "weight": 4382,
+        "displacement": 318,
+        "horsepower": 210,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg27"
+      },
+      {
+        "acceleration": 18.5,
+        "mpg": 9,
+        "car name": "hi 1200d",
+        "cylinders": 8,
+        "weight": 4732,
+        "displacement": 304,
+        "horsepower": 193,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg28"
+      },
+      {
+        "acceleration": 14.5,
+        "mpg": 27,
+        "car name": "datsun pl510",
+        "cylinders": 4,
+        "weight": 2130,
+        "displacement": 97,
+        "horsepower": 88,
+        "model year": 71,
+        "origin": 3,
+        "_key": "mpg29"
+      }
+    ],
+    "selection": [],
+    "encoding": {
+      "x": "horsepower",
+      "y": "weight",
+      "countX": 8,
+      "countY": 5,
+      "bottomEdge": "bottom",
+      "bgColor": "white",
+      "color": "blue",
+      "axisSwitch": false,
+      "rectMargin": 3,
+      "xAxisSpace": 20,
+      "yAxisSpace": 60,
+      "margin": 10
+    }
+  },
+  "HistogramChart": {
+    "data": [
+      {
+        "acceleration": 12,
+        "mpg": 18,
+        "car name": "chevrolet chevelle malibu",
+        "cylinders": 8,
+        "weight": 3504,
+        "displacement": 307,
+        "horsepower": 130,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg0"
+      },
+      {
+        "acceleration": 11.5,
+        "mpg": 15,
+        "car name": "buick skylark 320",
+        "cylinders": 8,
+        "weight": 3693,
+        "displacement": 350,
+        "horsepower": 165,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg1"
+      },
+      {
+        "acceleration": 11,
+        "mpg": 18,
+        "car name": "plymouth satellite",
+        "cylinders": 8,
+        "weight": 3436,
+        "displacement": 318,
+        "horsepower": 150,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg2"
+      },
+      {
+        "acceleration": 12,
+        "mpg": 16,
+        "car name": "amc rebel sst",
+        "cylinders": 8,
+        "weight": 3433,
+        "displacement": 304,
+        "horsepower": 150,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg3"
+      },
+      {
+        "acceleration": 10.5,
+        "mpg": 17,
+        "car name": "ford torino",
+        "cylinders": 8,
+        "weight": 3449,
+        "displacement": 302,
+        "horsepower": 140,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg4"
+      },
+      {
+        "acceleration": 10,
+        "mpg": 15,
+        "car name": "ford galaxie 500",
+        "cylinders": 8,
+        "weight": 4341,
+        "displacement": 429,
+        "horsepower": 198,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg5"
+      },
+      {
+        "acceleration": 9,
+        "mpg": 14,
+        "car name": "chevrolet impala",
+        "cylinders": 8,
+        "weight": 4354,
+        "displacement": 454,
+        "horsepower": 220,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg6"
+      },
+      {
+        "acceleration": 8.5,
+        "mpg": 14,
+        "car name": "plymouth fury iii",
+        "cylinders": 8,
+        "weight": 4312,
+        "displacement": 440,
+        "horsepower": 215,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg7"
+      },
+      {
+        "acceleration": 10,
+        "mpg": 14,
+        "car name": "pontiac catalina",
+        "cylinders": 8,
+        "weight": 4425,
+        "displacement": 455,
+        "horsepower": 225,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg8"
+      },
+      {
+        "acceleration": 8.5,
+        "mpg": 15,
+        "car name": "amc ambassador dpl",
+        "cylinders": 8,
+        "weight": 3850,
+        "displacement": 390,
+        "horsepower": 190,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg9"
+      },
+      {
+        "acceleration": 10,
+        "mpg": 15,
+        "car name": "dodge challenger se",
+        "cylinders": 8,
+        "weight": 3563,
+        "displacement": 383,
+        "horsepower": 170,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg10"
+      },
+      {
+        "acceleration": 8,
+        "mpg": 14,
+        "car name": "plymouth cuda 340",
+        "cylinders": 8,
+        "weight": 3609,
+        "displacement": 340,
+        "horsepower": 160,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg11"
+      },
+      {
+        "acceleration": 9.5,
+        "mpg": 15,
+        "car name": "chevrolet monte carlo",
+        "cylinders": 8,
+        "weight": 3761,
+        "displacement": 400,
+        "horsepower": 150,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg12"
+      },
+      {
+        "acceleration": 10,
+        "mpg": 14,
+        "car name": "buick estate wagon (sw)",
+        "cylinders": 8,
+        "weight": 3086,
+        "displacement": 455,
+        "horsepower": 225,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg13"
+      },
+      {
+        "acceleration": 15,
+        "mpg": 24,
+        "car name": "toyota corona mark ii",
+        "cylinders": 4,
+        "weight": 2372,
+        "displacement": 113,
+        "horsepower": 95,
+        "model year": 70,
+        "origin": 3,
+        "_key": "mpg14"
+      },
+      {
+        "acceleration": 15.5,
+        "mpg": 22,
+        "car name": "plymouth duster",
+        "cylinders": 6,
+        "weight": 2833,
+        "displacement": 198,
+        "horsepower": 95,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg15"
+      },
+      {
+        "acceleration": 15.5,
+        "mpg": 18,
+        "car name": "amc hornet",
+        "cylinders": 6,
+        "weight": 2774,
+        "displacement": 199,
+        "horsepower": 97,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg16"
+      },
+      {
+        "acceleration": 16,
+        "mpg": 21,
+        "car name": "ford maverick",
+        "cylinders": 6,
+        "weight": 2587,
+        "displacement": 200,
+        "horsepower": 85,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg17"
+      },
+      {
+        "acceleration": 14.5,
+        "mpg": 27,
+        "car name": "datsun pl510",
+        "cylinders": 4,
+        "weight": 2130,
+        "displacement": 97,
+        "horsepower": 88,
+        "model year": 70,
+        "origin": 3,
+        "_key": "mpg18"
+      },
+      {
+        "acceleration": 20.5,
+        "mpg": 26,
+        "car name": "volkswagen 1131 deluxe sedan",
+        "cylinders": 4,
+        "weight": 1835,
+        "displacement": 97,
+        "horsepower": 46,
+        "model year": 70,
+        "origin": 2,
+        "_key": "mpg19"
+      },
+      {
+        "acceleration": 17.5,
+        "mpg": 25,
+        "car name": "peugeot 504",
+        "cylinders": 4,
+        "weight": 2672,
+        "displacement": 110,
+        "horsepower": 87,
+        "model year": 70,
+        "origin": 2,
+        "_key": "mpg20"
+      },
+      {
+        "acceleration": 14.5,
+        "mpg": 24,
+        "car name": "audi 100 ls",
+        "cylinders": 4,
+        "weight": 2430,
+        "displacement": 107,
+        "horsepower": 90,
+        "model year": 70,
+        "origin": 2,
+        "_key": "mpg21"
+      },
+      {
+        "acceleration": 17.5,
+        "mpg": 25,
+        "car name": "saab 99e",
+        "cylinders": 4,
+        "weight": 2375,
+        "displacement": 104,
+        "horsepower": 95,
+        "model year": 70,
+        "origin": 2,
+        "_key": "mpg22"
+      },
+      {
+        "acceleration": 12.5,
+        "mpg": 26,
+        "car name": "bmw 2002",
+        "cylinders": 4,
+        "weight": 2234,
+        "displacement": 121,
+        "horsepower": 113,
+        "model year": 70,
+        "origin": 2,
+        "_key": "mpg23"
+      },
+      {
+        "acceleration": 15,
+        "mpg": 21,
+        "car name": "amc gremlin",
+        "cylinders": 6,
+        "weight": 2648,
+        "displacement": 199,
+        "horsepower": 90,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg24"
+      },
+      {
+        "acceleration": 14,
+        "mpg": 10,
+        "car name": "ford f250",
+        "cylinders": 8,
+        "weight": 4615,
+        "displacement": 360,
+        "horsepower": 215,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg25"
+      },
+      {
+        "acceleration": 15,
+        "mpg": 10,
+        "car name": "chevy c20",
+        "cylinders": 8,
+        "weight": 4376,
+        "displacement": 307,
+        "horsepower": 200,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg26"
+      },
+      {
+        "acceleration": 13.5,
+        "mpg": 11,
+        "car name": "dodge d200",
+        "cylinders": 8,
+        "weight": 4382,
+        "displacement": 318,
+        "horsepower": 210,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg27"
+      },
+      {
+        "acceleration": 18.5,
+        "mpg": 9,
+        "car name": "hi 1200d",
+        "cylinders": 8,
+        "weight": 4732,
+        "displacement": 304,
+        "horsepower": 193,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg28"
+      },
+      {
+        "acceleration": 14.5,
+        "mpg": 27,
+        "car name": "datsun pl510",
+        "cylinders": 4,
+        "weight": 2130,
+        "displacement": 97,
+        "horsepower": 88,
+        "model year": 71,
+        "origin": 3,
+        "_key": "mpg29"
+      }
+    ],
+    "selection": [],
+    "encoding": {
+      "x": "weight",
+      "xType": "numeric",
+      "isDisplay": false,
+      "x1": 0.2,
+      "x2": 0.8
+    }
+  },
+  "HistogramRadial": {
+    "data": [
+      {
+        "acceleration": 12,
+        "mpg": 18,
+        "car name": "chevrolet chevelle malibu",
+        "cylinders": 8,
+        "weight": 3504,
+        "displacement": 307,
+        "horsepower": 130,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg0"
+      },
+      {
+        "acceleration": 11.5,
+        "mpg": 15,
+        "car name": "buick skylark 320",
+        "cylinders": 8,
+        "weight": 3693,
+        "displacement": 350,
+        "horsepower": 165,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg1"
+      },
+      {
+        "acceleration": 11,
+        "mpg": 18,
+        "car name": "plymouth satellite",
+        "cylinders": 8,
+        "weight": 3436,
+        "displacement": 318,
+        "horsepower": 150,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg2"
+      },
+      {
+        "acceleration": 12,
+        "mpg": 16,
+        "car name": "amc rebel sst",
+        "cylinders": 8,
+        "weight": 3433,
+        "displacement": 304,
+        "horsepower": 150,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg3"
+      },
+      {
+        "acceleration": 10.5,
+        "mpg": 17,
+        "car name": "ford torino",
+        "cylinders": 8,
+        "weight": 3449,
+        "displacement": 302,
+        "horsepower": 140,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg4"
+      },
+      {
+        "acceleration": 10,
+        "mpg": 15,
+        "car name": "ford galaxie 500",
+        "cylinders": 8,
+        "weight": 4341,
+        "displacement": 429,
+        "horsepower": 198,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg5"
+      },
+      {
+        "acceleration": 9,
+        "mpg": 14,
+        "car name": "chevrolet impala",
+        "cylinders": 8,
+        "weight": 4354,
+        "displacement": 454,
+        "horsepower": 220,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg6"
+      },
+      {
+        "acceleration": 8.5,
+        "mpg": 14,
+        "car name": "plymouth fury iii",
+        "cylinders": 8,
+        "weight": 4312,
+        "displacement": 440,
+        "horsepower": 215,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg7"
+      },
+      {
+        "acceleration": 10,
+        "mpg": 14,
+        "car name": "pontiac catalina",
+        "cylinders": 8,
+        "weight": 4425,
+        "displacement": 455,
+        "horsepower": 225,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg8"
+      },
+      {
+        "acceleration": 8.5,
+        "mpg": 15,
+        "car name": "amc ambassador dpl",
+        "cylinders": 8,
+        "weight": 3850,
+        "displacement": 390,
+        "horsepower": 190,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg9"
+      },
+      {
+        "acceleration": 10,
+        "mpg": 15,
+        "car name": "dodge challenger se",
+        "cylinders": 8,
+        "weight": 3563,
+        "displacement": 383,
+        "horsepower": 170,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg10"
+      },
+      {
+        "acceleration": 8,
+        "mpg": 14,
+        "car name": "plymouth cuda 340",
+        "cylinders": 8,
+        "weight": 3609,
+        "displacement": 340,
+        "horsepower": 160,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg11"
+      },
+      {
+        "acceleration": 9.5,
+        "mpg": 15,
+        "car name": "chevrolet monte carlo",
+        "cylinders": 8,
+        "weight": 3761,
+        "displacement": 400,
+        "horsepower": 150,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg12"
+      },
+      {
+        "acceleration": 10,
+        "mpg": 14,
+        "car name": "buick estate wagon (sw)",
+        "cylinders": 8,
+        "weight": 3086,
+        "displacement": 455,
+        "horsepower": 225,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg13"
+      },
+      {
+        "acceleration": 15,
+        "mpg": 24,
+        "car name": "toyota corona mark ii",
+        "cylinders": 4,
+        "weight": 2372,
+        "displacement": 113,
+        "horsepower": 95,
+        "model year": 70,
+        "origin": 3,
+        "_key": "mpg14"
+      },
+      {
+        "acceleration": 15.5,
+        "mpg": 22,
+        "car name": "plymouth duster",
+        "cylinders": 6,
+        "weight": 2833,
+        "displacement": 198,
+        "horsepower": 95,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg15"
+      },
+      {
+        "acceleration": 15.5,
+        "mpg": 18,
+        "car name": "amc hornet",
+        "cylinders": 6,
+        "weight": 2774,
+        "displacement": 199,
+        "horsepower": 97,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg16"
+      },
+      {
+        "acceleration": 16,
+        "mpg": 21,
+        "car name": "ford maverick",
+        "cylinders": 6,
+        "weight": 2587,
+        "displacement": 200,
+        "horsepower": 85,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg17"
+      },
+      {
+        "acceleration": 14.5,
+        "mpg": 27,
+        "car name": "datsun pl510",
+        "cylinders": 4,
+        "weight": 2130,
+        "displacement": 97,
+        "horsepower": 88,
+        "model year": 70,
+        "origin": 3,
+        "_key": "mpg18"
+      },
+      {
+        "acceleration": 20.5,
+        "mpg": 26,
+        "car name": "volkswagen 1131 deluxe sedan",
+        "cylinders": 4,
+        "weight": 1835,
+        "displacement": 97,
+        "horsepower": 46,
+        "model year": 70,
+        "origin": 2,
+        "_key": "mpg19"
+      },
+      {
+        "acceleration": 17.5,
+        "mpg": 25,
+        "car name": "peugeot 504",
+        "cylinders": 4,
+        "weight": 2672,
+        "displacement": 110,
+        "horsepower": 87,
+        "model year": 70,
+        "origin": 2,
+        "_key": "mpg20"
+      },
+      {
+        "acceleration": 14.5,
+        "mpg": 24,
+        "car name": "audi 100 ls",
+        "cylinders": 4,
+        "weight": 2430,
+        "displacement": 107,
+        "horsepower": 90,
+        "model year": 70,
+        "origin": 2,
+        "_key": "mpg21"
+      },
+      {
+        "acceleration": 17.5,
+        "mpg": 25,
+        "car name": "saab 99e",
+        "cylinders": 4,
+        "weight": 2375,
+        "displacement": 104,
+        "horsepower": 95,
+        "model year": 70,
+        "origin": 2,
+        "_key": "mpg22"
+      },
+      {
+        "acceleration": 12.5,
+        "mpg": 26,
+        "car name": "bmw 2002",
+        "cylinders": 4,
+        "weight": 2234,
+        "displacement": 121,
+        "horsepower": 113,
+        "model year": 70,
+        "origin": 2,
+        "_key": "mpg23"
+      },
+      {
+        "acceleration": 15,
+        "mpg": 21,
+        "car name": "amc gremlin",
+        "cylinders": 6,
+        "weight": 2648,
+        "displacement": 199,
+        "horsepower": 90,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg24"
+      },
+      {
+        "acceleration": 14,
+        "mpg": 10,
+        "car name": "ford f250",
+        "cylinders": 8,
+        "weight": 4615,
+        "displacement": 360,
+        "horsepower": 215,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg25"
+      },
+      {
+        "acceleration": 15,
+        "mpg": 10,
+        "car name": "chevy c20",
+        "cylinders": 8,
+        "weight": 4376,
+        "displacement": 307,
+        "horsepower": 200,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg26"
+      },
+      {
+        "acceleration": 13.5,
+        "mpg": 11,
+        "car name": "dodge d200",
+        "cylinders": 8,
+        "weight": 4382,
+        "displacement": 318,
+        "horsepower": 210,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg27"
+      },
+      {
+        "acceleration": 18.5,
+        "mpg": 9,
+        "car name": "hi 1200d",
+        "cylinders": 8,
+        "weight": 4732,
+        "displacement": 304,
+        "horsepower": 193,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg28"
+      },
+      {
+        "acceleration": 14.5,
+        "mpg": 27,
+        "car name": "datsun pl510",
+        "cylinders": 4,
+        "weight": 2130,
+        "displacement": 97,
+        "horsepower": 88,
+        "model year": 71,
+        "origin": 3,
+        "_key": "mpg29"
+      }
+    ],
+    "selection": [],
+    "encoding": {
+      "x": "weight",
+      "bottomEdge": "bottom",
+      "bgColor": "white",
+      "color": "green",
+      "startAngle": 90,
+      "ringWidth": 0.206
+    }
+  },
+  "InputComponent": {
+    "encoding": {
+      "type": "number",
+      "tip": "体重: ",
+      "defaultValue": 81.5,
+      "step": 0.1,
+      "fontSize": 25
+    }
+  },
+  "LineChart": {
+    "data": [
+      {
+        "valueA": 1,
+        "valueB": 93.24,
+        "c": "c1",
+        "_key": "areaData1"
+      },
+      {
+        "valueA": 2,
+        "valueB": 93.24,
+        "c": "c1",
+        "_key": "areaData2"
+      },
+      {
+        "valueA": 3,
+        "valueB": 91.24,
+        "c": "c1",
+        "_key": "areaData3"
+      },
+      {
+        "valueA": 4,
+        "valueB": 90.12,
+        "c": "c1",
+        "_key": "areaData4"
+      },
+      {
+        "valueA": 5,
+        "valueB": 98.84,
+        "c": "c1",
+        "_key": "areaData5"
+      },
+      {
+        "valueA": 6,
+        "valueB": 95.24,
+        "c": "c1",
+        "_key": "areaData6"
+      },
+      {
+        "valueA": 7,
+        "valueB": 98.24,
+        "c": "c1",
+        "_key": "areaData7"
+      },
+      {
+        "valueA": 8,
+        "valueB": 96.24,
+        "c": "c1",
+        "_key": "areaData8"
+      },
+      {
+        "valueA": 9,
+        "valueB": 98.24,
+        "c": "c1",
+        "_key": "areaData9"
+      },
+      {
+        "valueA": 10,
+        "valueB": 96.24,
+        "c": "c1",
+        "_key": "areaData10"
+      },
+
+      {
+        "valueA": 1,
+        "valueB": 97.24,
+        "c": "c2",
+        "_key": "areaData11"
+      },
+      {
+        "valueA": 2,
+        "valueB": 80,
+        "c": "c2",
+        "_key": "areaData12"
+      },
+      {
+        "valueA": 3,
+        "valueB": 100.12,
+        "c": "c2",
+        "_key": "areaData13"
+      },
+      {
+        "valueA": 4,
+        "valueB": 91.84,
+        "c": "c2",
+        "_key": "areaData14"
+      },
+      {
+        "valueA": 5,
+        "valueB": 89.24,
+        "c": "c2",
+        "_key": "areaData15"
+      },
+      {
+        "valueA": 6,
+        "valueB": 97.24,
+        "c": "c2",
+        "_key": "areaData16"
+      },
+      {
+        "valueA": 7,
+        "valueB": 90.24,
+        "c": "c2",
+        "_key": "areaData17"
+      },
+      {
+        "valueA": 8,
+        "valueB": 98.24,
+        "c": "c2",
+        "_key": "areaData18"
+      },
+      {
+        "valueA": 9,
+        "valueB": 96.24,
+        "c": "c2",
+        "_key": "areaData19"
+      },
+      {
+        "valueA": 10,
+        "valueB": 104,
+        "c": "c2",
+        "_key": "areaData20"
+      },
+
+      {
+        "valueA": 1,
+        "valueB": 83.24,
+        "c": "c3",
+        "_key": "areaData21"
+      },
+      {
+        "valueA": 2,
+        "valueB": 103.24,
+        "c": "c3",
+        "_key": "areaData22"
+      },
+      {
+        "valueA": 3,
+        "valueB": 98.24,
+        "c": "c3",
+        "_key": "areaData23"
+      },
+      {
+        "valueA": 4,
+        "valueB": 99.12,
+        "c": "c3",
+        "_key": "areaData24"
+      },
+      {
+        "valueA": 5,
+        "valueB": 92.84,
+        "c": "c3",
+        "_key": "areaData25"
+      },
+      {
+        "valueA": 6,
+        "valueB": 100.24,
+        "c": "c3",
+        "_key": "areaData26"
+      },
+      {
+        "valueA": 7,
+        "valueB": 88.24,
+        "c": "c3",
+        "_key": "areaData27"
+      },
+      {
+        "valueA": 8,
+        "valueB": 86.24,
+        "c": "c3",
+        "_key": "areaData28"
+      },
+      {
+        "valueA": 9,
+        "valueB": 90.24,
+        "c": "c3",
+        "_key": "areaData29"
+      },
+      {
+        "valueA": 10,
+        "valueB": 100,
+        "c": "c3",
+        "_key": "areaData30"
+      },
+
+      {
+        "valueA": 1,
+        "valueB": 104,
+        "c": "c4",
+        "_key": "areaData31"
+      },
+      {
+        "valueA": 2,
+        "valueB": 99.24,
+        "c": "c4",
+        "_key": "areaData32"
+      },
+      {
+        "valueA": 3,
+        "valueB": 80,
+        "c": "c4",
+        "_key": "areaData33"
+      },
+      {
+        "valueA": 4,
+        "valueB": 88.24,
+        "c": "c4",
+        "_key": "areaData34"
+      },
+      {
+        "valueA": 5,
+        "valueB": 90.12,
+        "c": "c4",
+        "_key": "areaData35"
+      },
+      {
+        "valueA": 6,
+        "valueB": 90.84,
+        "c": "c4",
+        "_key": "areaData36"
+      },
+      {
+        "valueA": 7,
+        "valueB": 100.24,
+        "c": "c4",
+        "_key": "areaData37"
+      },
+      {
+        "valueA": 8,
+        "valueB": 80.24,
+        "c": "c4",
+        "_key": "areaData38"
+      },
+      {
+        "valueA": 9,
+        "valueB": 86.24,
+        "c": "c4",
+        "_key": "areaData39"
+      },
+      {
+        "valueA": 10,
+        "valueB": 94.94,
+        "c": "c4",
+        "_key": "areaData40"
+      }
+    ],
+    "selection": [],
+    "encoding": {
+      "detail": "c",
+      "x": "valueA",
+      "y": "valueB",
+      "scale": [
+        [0, 50],
+        [0, 100]
+      ]
+    }
+  },
+  "LineUp": {
+    "data": [
+      {
+        "id": 1,
+        "a": 15,
+        "b": 9,
+        "c": 16,
+        "d": 33,
+        "e": 23,
+        "f": 1
+      },
+      {
+        "id": 2,
+        "a": 15,
+        "b": 23,
+        "c": 26,
+        "d": 13,
+        "e": 42,
+        "f": 12
+      },
+      {
+        "id": 3,
+        "a": 25,
+        "b": 9,
+        "c": 26,
+        "d": 39,
+        "e": 23,
+        "f": 3
+      },
+      {
+        "id": 4,
+        "a": 15,
+        "b": 9,
+        "c": 65,
+        "d": 27,
+        "e": 43,
+        "f": 10
+      },
+      {
+        "id": 5,
+        "a": 13,
+        "b": 7,
+        "c": 19,
+        "d": 31,
+        "e": 25,
+        "f": 9
+      },
+      {
+        "id": 6,
+        "a": 12,
+        "b": 29,
+        "c": 16,
+        "d": 34,
+        "e": 23,
+        "f": 6
+      },
+      {
+        "id": 7,
+        "a": 19,
+        "b": 21,
+        "c": 26,
+        "d": 3,
+        "e": 47,
+        "f": 13
+      },
+      {
+        "id": 11,
+        "a": 15,
+        "b": 9,
+        "c": 16,
+        "d": 33,
+        "e": 23,
+        "f": 1
+      },
+      {
+        "id": 12,
+        "a": 15,
+        "b": 23,
+        "c": 26,
+        "d": 13,
+        "e": 42,
+        "f": 12
+      },
+      {
+        "id": 13,
+        "a": 25,
+        "b": 9,
+        "c": 26,
+        "d": 39,
+        "e": 23,
+        "f": 3
+      },
+      {
+        "id": 14,
+        "a": 15,
+        "b": 9,
+        "c": 65,
+        "d": 27,
+        "e": 43,
+        "f": 10
+      },
+      {
+        "id": 15,
+        "a": 13,
+        "b": 7,
+        "c": 19,
+        "d": 31,
+        "e": 25,
+        "f": 9
+      },
+      {
+        "id": 16,
+        "a": 12,
+        "b": 29,
+        "c": 16,
+        "d": 34,
+        "e": 23,
+        "f": 6
+      },
+      {
+        "id": 17,
+        "a": 19,
+        "b": 21,
+        "c": 26,
+        "d": 3,
+        "e": 47,
+        "f": 13
+      },
+      {
+        "id": 21,
+        "a": 15,
+        "b": 9,
+        "c": 16,
+        "d": 33,
+        "e": 23,
+        "f": 1
+      },
+      {
+        "id": 22,
+        "a": 15,
+        "b": 23,
+        "c": 26,
+        "d": 13,
+        "e": 42,
+        "f": 12
+      },
+      {
+        "id": 23,
+        "a": 25,
+        "b": 9,
+        "c": 26,
+        "d": 39,
+        "e": 23,
+        "f": 3
+      },
+      {
+        "id": 24,
+        "a": 15,
+        "b": 9,
+        "c": 65,
+        "d": 27,
+        "e": 43,
+        "f": 10
+      },
+      {
+        "id": 25,
+        "a": 13,
+        "b": 7,
+        "c": 19,
+        "d": 31,
+        "e": 25,
+        "f": 9
+      },
+      {
+        "id": 26,
+        "a": 12,
+        "b": 29,
+        "c": 16,
+        "d": 34,
+        "e": 23,
+        "f": 6
+      },
+      {
+        "id": 27,
+        "a": 19,
+        "b": 21,
+        "c": 26,
+        "d": 3,
+        "e": 47,
+        "f": 13
+      },
+      {
+        "id": 31,
+        "a": 15,
+        "b": 9,
+        "c": 16,
+        "d": 33,
+        "e": 23,
+        "f": 1
+      },
+      {
+        "id": 32,
+        "a": 15,
+        "b": 23,
+        "c": 26,
+        "d": 13,
+        "e": 42,
+        "f": 12
+      },
+      {
+        "id": 33,
+        "a": 25,
+        "b": 9,
+        "c": 26,
+        "d": 39,
+        "e": 23,
+        "f": 3
+      },
+      {
+        "id": 34,
+        "a": 15,
+        "b": 9,
+        "c": 65,
+        "d": 27,
+        "e": 43,
+        "f": 10
+      },
+      {
+        "id": 35,
+        "a": 13,
+        "b": 7,
+        "c": 19,
+        "d": 31,
+        "e": 25,
+        "f": 9
+      },
+      {
+        "id": 36,
+        "a": 12,
+        "b": 29,
+        "c": 16,
+        "d": 34,
+        "e": 23,
+        "f": 6
+      },
+      {
+        "id": 37,
+        "a": 19,
+        "b": 21,
+        "c": 26,
+        "d": 3,
+        "e": 47,
+        "f": 13
+      },
+      {
+        "id": 41,
+        "a": 15,
+        "b": 9,
+        "c": 16,
+        "d": 33,
+        "e": 23,
+        "f": 1
+      },
+      {
+        "id": 42,
+        "a": 15,
+        "b": 23,
+        "c": 26,
+        "d": 13,
+        "e": 42,
+        "f": 12
+      },
+      {
+        "id": 43,
+        "a": 25,
+        "b": 9,
+        "c": 26,
+        "d": 39,
+        "e": 23,
+        "f": 3
+      },
+      {
+        "id": 44,
+        "a": 15,
+        "b": 9,
+        "c": 65,
+        "d": 27,
+        "e": 43,
+        "f": 10
+      },
+      {
+        "id": 45,
+        "a": 13,
+        "b": 7,
+        "c": 19,
+        "d": 31,
+        "e": 25,
+        "f": 9
+      },
+      {
+        "id": 46,
+        "a": 12,
+        "b": 29,
+        "c": 16,
+        "d": 34,
+        "e": 23,
+        "f": 6
+      },
+      {
+        "id": 47,
+        "a": 19,
+        "b": 21,
+        "c": 26,
+        "d": 3,
+        "e": 47,
+        "f": 13
+      }
+    ],
+    "selection": [],
+    "encoding": {
+      "headers": [
+        {
+          "name": "b",
+          "color": "#b2df8a"
+        },
+        {
+          "name": "c",
+          "color": "#33a02c"
+        },
+        {
+          "name": "d",
+          "color": "#fb9a99"
+        },
+        {
+          "name": "a",
+          "color": "#1f78b4"
+        },
+        {
+          "name": "e",
+          "color": "#e31a1c"
+        },
+        {
+          "name": "f",
+          "color": "#fdbf6f"
+        }
+      ],
+      "weights": {
+        "a": 2,
+        "b": 1,
+        "c": 1,
+        "d": 1,
+        "e": 1,
+        "f": 1
+      },
+      "referWidth": 100
+    }
+  },
+  "ListContainer": {
+    "data": [{ "name": "item1" }, { "name": "item2" }, { "name": "item3" }],
+    "selection": [],
+    "encoding": {
+      "length": 200,
+      "component": "HeaderComponent",
+      "itemData": "name",
+      "itemEncoding": {
+        "weight": "normal",
+        "size": 20,
+        "align": "center"
+      },
+      "selectType": "multiple"
+    }
+  },
+  "ListComponent": {
+    "data": [
+      "ant design vue part 1",
+      "ant design vue part 2",
+      "ant design vue part 3",
+      "ant design vue part 4",
+      "ant design vue part 5",
+      "ant design vue part 6",
+      "ant design vue part 7",
+      "ant design vue part 8",
+      "ant design vue part 9",
+      "ant design vue part 10",
+      "ant design vue part 11",
+      "ant design vue part 12",
+      "ant design vue part 13"
+    ],
+    "encoding": {
+      "size": "large",
+      "pagination": {
+        "pageSize": 4
+      }
+    }
+  },
+  "MultiSelectComponent": {
+    "data": ["A", "B", "C", "D", "E"],
+    "selection": ["B", "C"],
+    "encoding": {
+      "size": "large"
+    }
+  },
+  "NodeLinkMap": {
+    "data": [],
+    "selection": [],
+    "encoding": {
+      "nodes": "privateNodes",
+      "nodeValue": "avgPM25",
+      "links": "privateLinks",
+      "linkSource": "source.id",
+      "linkTarget": "target.id",
+      "linkSourceValue": "sourceOut[2]",
+      "linkTargetValue": "targetIn[2]"
+    }
+  },
+  "ParallelCoordinates": {
+    "data": [
+      {
+        "acceleration": 12,
+        "mpg": 18,
+        "car name": "chevrolet chevelle malibu",
+        "cylinders": 8,
+        "weight": 3504,
+        "displacement": 307,
+        "horsepower": 130,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg0"
+      },
+      {
+        "acceleration": 11.5,
+        "mpg": 15,
+        "car name": "buick skylark 320",
+        "cylinders": 8,
+        "weight": 3693,
+        "displacement": 350,
+        "horsepower": 165,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg1"
+      },
+      {
+        "acceleration": 11,
+        "mpg": 18,
+        "car name": "plymouth satellite",
+        "cylinders": 8,
+        "weight": 3436,
+        "displacement": 318,
+        "horsepower": 150,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg2"
+      },
+      {
+        "acceleration": 12,
+        "mpg": 16,
+        "car name": "amc rebel sst",
+        "cylinders": 8,
+        "weight": 3433,
+        "displacement": 304,
+        "horsepower": 150,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg3"
+      },
+      {
+        "acceleration": 10.5,
+        "mpg": 17,
+        "car name": "ford torino",
+        "cylinders": 8,
+        "weight": 3449,
+        "displacement": 302,
+        "horsepower": 140,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg4"
+      },
+      {
+        "acceleration": 10,
+        "mpg": 15,
+        "car name": "ford galaxie 500",
+        "cylinders": 8,
+        "weight": 4341,
+        "displacement": 429,
+        "horsepower": 198,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg5"
+      },
+      {
+        "acceleration": 9,
+        "mpg": 14,
+        "car name": "chevrolet impala",
+        "cylinders": 8,
+        "weight": 4354,
+        "displacement": 454,
+        "horsepower": 220,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg6"
+      },
+      {
+        "acceleration": 8.5,
+        "mpg": 14,
+        "car name": "plymouth fury iii",
+        "cylinders": 8,
+        "weight": 4312,
+        "displacement": 440,
+        "horsepower": 215,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg7"
+      },
+      {
+        "acceleration": 10,
+        "mpg": 14,
+        "car name": "pontiac catalina",
+        "cylinders": 8,
+        "weight": 4425,
+        "displacement": 455,
+        "horsepower": 225,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg8"
+      },
+      {
+        "acceleration": 8.5,
+        "mpg": 15,
+        "car name": "amc ambassador dpl",
+        "cylinders": 8,
+        "weight": 3850,
+        "displacement": 390,
+        "horsepower": 190,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg9"
+      },
+      {
+        "acceleration": 10,
+        "mpg": 15,
+        "car name": "dodge challenger se",
+        "cylinders": 8,
+        "weight": 3563,
+        "displacement": 383,
+        "horsepower": 170,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg10"
+      },
+      {
+        "acceleration": 8,
+        "mpg": 14,
+        "car name": "plymouth cuda 340",
+        "cylinders": 8,
+        "weight": 3609,
+        "displacement": 340,
+        "horsepower": 160,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg11"
+      },
+      {
+        "acceleration": 9.5,
+        "mpg": 15,
+        "car name": "chevrolet monte carlo",
+        "cylinders": 8,
+        "weight": 3761,
+        "displacement": 400,
+        "horsepower": 150,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg12"
+      },
+      {
+        "acceleration": 10,
+        "mpg": 14,
+        "car name": "buick estate wagon (sw)",
+        "cylinders": 8,
+        "weight": 3086,
+        "displacement": 455,
+        "horsepower": 225,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg13"
+      },
+      {
+        "acceleration": 15,
+        "mpg": 24,
+        "car name": "toyota corona mark ii",
+        "cylinders": 4,
+        "weight": 2372,
+        "displacement": 113,
+        "horsepower": 95,
+        "model year": 70,
+        "origin": 3,
+        "_key": "mpg14"
+      },
+      {
+        "acceleration": 15.5,
+        "mpg": 22,
+        "car name": "plymouth duster",
+        "cylinders": 6,
+        "weight": 2833,
+        "displacement": 198,
+        "horsepower": 95,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg15"
+      },
+      {
+        "acceleration": 15.5,
+        "mpg": 18,
+        "car name": "amc hornet",
+        "cylinders": 6,
+        "weight": 2774,
+        "displacement": 199,
+        "horsepower": 97,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg16"
+      },
+      {
+        "acceleration": 16,
+        "mpg": 21,
+        "car name": "ford maverick",
+        "cylinders": 6,
+        "weight": 2587,
+        "displacement": 200,
+        "horsepower": 85,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg17"
+      },
+      {
+        "acceleration": 14.5,
+        "mpg": 27,
+        "car name": "datsun pl510",
+        "cylinders": 4,
+        "weight": 2130,
+        "displacement": 97,
+        "horsepower": 88,
+        "model year": 70,
+        "origin": 3,
+        "_key": "mpg18"
+      },
+      {
+        "acceleration": 20.5,
+        "mpg": 26,
+        "car name": "volkswagen 1131 deluxe sedan",
+        "cylinders": 4,
+        "weight": 1835,
+        "displacement": 97,
+        "horsepower": 46,
+        "model year": 70,
+        "origin": 2,
+        "_key": "mpg19"
+      },
+      {
+        "acceleration": 17.5,
+        "mpg": 25,
+        "car name": "peugeot 504",
+        "cylinders": 4,
+        "weight": 2672,
+        "displacement": 110,
+        "horsepower": 87,
+        "model year": 70,
+        "origin": 2,
+        "_key": "mpg20"
+      },
+      {
+        "acceleration": 14.5,
+        "mpg": 24,
+        "car name": "audi 100 ls",
+        "cylinders": 4,
+        "weight": 2430,
+        "displacement": 107,
+        "horsepower": 90,
+        "model year": 70,
+        "origin": 2,
+        "_key": "mpg21"
+      },
+      {
+        "acceleration": 17.5,
+        "mpg": 25,
+        "car name": "saab 99e",
+        "cylinders": 4,
+        "weight": 2375,
+        "displacement": 104,
+        "horsepower": 95,
+        "model year": 70,
+        "origin": 2,
+        "_key": "mpg22"
+      },
+      {
+        "acceleration": 12.5,
+        "mpg": 26,
+        "car name": "bmw 2002",
+        "cylinders": 4,
+        "weight": 2234,
+        "displacement": 121,
+        "horsepower": 113,
+        "model year": 70,
+        "origin": 2,
+        "_key": "mpg23"
+      },
+      {
+        "acceleration": 15,
+        "mpg": 21,
+        "car name": "amc gremlin",
+        "cylinders": 6,
+        "weight": 2648,
+        "displacement": 199,
+        "horsepower": 90,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg24"
+      },
+      {
+        "acceleration": 14,
+        "mpg": 10,
+        "car name": "ford f250",
+        "cylinders": 8,
+        "weight": 4615,
+        "displacement": 360,
+        "horsepower": 215,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg25"
+      },
+      {
+        "acceleration": 15,
+        "mpg": 10,
+        "car name": "chevy c20",
+        "cylinders": 8,
+        "weight": 4376,
+        "displacement": 307,
+        "horsepower": 200,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg26"
+      },
+      {
+        "acceleration": 13.5,
+        "mpg": 11,
+        "car name": "dodge d200",
+        "cylinders": 8,
+        "weight": 4382,
+        "displacement": 318,
+        "horsepower": 210,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg27"
+      },
+      {
+        "acceleration": 18.5,
+        "mpg": 9,
+        "car name": "hi 1200d",
+        "cylinders": 8,
+        "weight": 4732,
+        "displacement": 304,
+        "horsepower": 193,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg28"
+      },
+      {
+        "acceleration": 14.5,
+        "mpg": 27,
+        "car name": "datsun pl510",
+        "cylinders": 4,
+        "weight": 2130,
+        "displacement": 97,
+        "horsepower": 88,
+        "model year": 71,
+        "origin": 3,
+        "_key": "mpg29"
+      }
+    ],
+    "selection": [],
+    "encoding": {
+      "x": ["acceleration", "mpg", "cylinders", "model year", "weight"],
+      "color": "red",
+      "selectionColor": "blue",
+      "scale": [
+        [40, 50],
+        [30, 100],
+        [30, 100],
+        [20, 30],
+        [50, 80]
+      ],
+      "axis": true,
+      "legend": true
+    }
+  },
+  "PatternGlyph": {
+    "data": {
+      "timeDistribution": [40, 3, 0, 0, 8, 5, 0, 5, 2, 1, 3, 0, 5, 0, 12, 5, 10, 8, 7, 10, 13, 26, 5, 0, 11, 4, 3, 2, 0, 7, 3, 3, 11],
+      "direction": 47.37238869060889,
+      "graph": [
+        {
+          "parentId": "21006",
+          "childId": "23004"
+        },
+        {
+          "parentId": "22002",
+          "childId": "22009"
+        },
+        {
+          "parentId": "22009",
+          "childId": "21006"
+        },
+        {
+          "parentId": "23004",
+          "childId": "11016"
+        },
+        {
+          "parentId": "23004",
+          "childId": "12001"
+        }
+      ],
+      "mapBounds": {
+        "southWest": {
+          "lat": 37.465277,
+          "lng": 114.455
+        },
+        "northEast": {
+          "lat": 40.948999,
+          "lng": 119.251
+        }
+      },
+      "points": [
+        {
+          "id": 1020,
+          "lat": 39.886491,
+          "lng": 116.407355,
+          "sid": 1020,
+          "name": "any"
+        },
+        {
+          "id": 1023,
+          "lat": 40.127,
+          "lng": 116.655,
+          "sid": 1023,
+          "name": "any"
+        },
+        {
+          "id": 1025,
+          "lat": 39.936999,
+          "lng": 116.105999,
+          "sid": 1025,
+          "name": "any"
+        },
+        {
+          "id": 1030,
+          "lat": 40.292,
+          "lng": 116.22,
+          "sid": 1030,
+          "name": "any"
+        },
+        {
+          "id": 6015,
+          "lat": 40.047066,
+          "lng": 117.445221,
+          "sid": 6015,
+          "name": "any"
+        },
+        {
+          "id": 6016,
+          "lat": 39.718542,
+          "lng": 117.307892,
+          "sid": 6016,
+          "name": "any"
+        },
+        {
+          "id": 6019,
+          "lat": 39.247742,
+          "lng": 117.791805,
+          "sid": 6019,
+          "name": "any"
+        },
+        {
+          "id": 6024,
+          "lat": 38.84198,
+          "lng": 117.456722,
+          "sid": 6024,
+          "name": "any"
+        },
+        {
+          "id": 6026,
+          "lat": 38.920287,
+          "lng": 117.156657,
+          "sid": 6026,
+          "name": "any"
+        },
+        {
+          "id": 6028,
+          "lat": 39.097,
+          "lng": 117.151,
+          "sid": 6028,
+          "name": "any"
+        },
+        {
+          "id": 11004,
+          "lat": 38.051,
+          "lng": 114.455,
+          "sid": 11004,
+          "name": "any"
+        },
+        {
+          "id": 11014,
+          "lat": 38.348999,
+          "lng": 114.69,
+          "sid": 11014,
+          "name": "any"
+        },
+        {
+          "id": 11016,
+          "lat": 38.197,
+          "lng": 115.212999,
+          "sid": 11016,
+          "name": "any"
+        },
+        {
+          "id": 12001,
+          "lat": 37.948999,
+          "lng": 115.224,
+          "sid": 12001,
+          "name": "any"
+        },
+        {
+          "id": 13002,
+          "lat": 39.631,
+          "lng": 118.166,
+          "sid": 13002,
+          "name": "any"
+        },
+        {
+          "id": 13007,
+          "lat": 39.74,
+          "lng": 118.453999,
+          "sid": 13007,
+          "name": "any"
+        },
+        {
+          "id": 13011,
+          "lat": 40.152,
+          "lng": 118.311,
+          "sid": 13011,
+          "name": "any"
+        },
+        {
+          "id": 13012,
+          "lat": 39.289999,
+          "lng": 118.456,
+          "sid": 13012,
+          "name": "any"
+        },
+        {
+          "id": 14006,
+          "lat": 40.417999,
+          "lng": 118.952,
+          "sid": 14006,
+          "name": "any"
+        },
+        {
+          "id": 14007,
+          "lat": 39.713,
+          "lng": 119.167,
+          "sid": 14007,
+          "name": "any"
+        },
+        {
+          "id": 14008,
+          "lat": 39.881999,
+          "lng": 119.251,
+          "sid": 14008,
+          "name": "any"
+        },
+        {
+          "id": 17005,
+          "lat": 38.875999,
+          "lng": 115.441999,
+          "sid": 17005,
+          "name": "any"
+        },
+        {
+          "id": 17011,
+          "lat": 39.491999,
+          "lng": 116.034,
+          "sid": 17011,
+          "name": "any"
+        },
+        {
+          "id": 17012,
+          "lat": 39.332,
+          "lng": 115.88,
+          "sid": 17012,
+          "name": "any"
+        },
+        {
+          "id": 18001,
+          "lat": 38.521999,
+          "lng": 114.997,
+          "sid": 18001,
+          "name": "any"
+        },
+        {
+          "id": 19002,
+          "lat": 40.768999,
+          "lng": 114.903,
+          "sid": 19002,
+          "name": "any"
+        },
+        {
+          "id": 19009,
+          "lat": 40.420999,
+          "lng": 115.524,
+          "sid": 19009,
+          "name": "any"
+        },
+        {
+          "id": 20001,
+          "lat": 40.915999,
+          "lng": 117.965999,
+          "sid": 20001,
+          "name": "any"
+        },
+        {
+          "id": 20007,
+          "lat": 40.423,
+          "lng": 117.507,
+          "sid": 20007,
+          "name": "any"
+        },
+        {
+          "id": 20008,
+          "lat": 40.948999,
+          "lng": 117.343999,
+          "sid": 20008,
+          "name": "any"
+        },
+        {
+          "id": 21001,
+          "lat": 38.323,
+          "lng": 116.871,
+          "sid": 21001,
+          "name": "any"
+        },
+        {
+          "id": 21004,
+          "lat": 38.588999,
+          "lng": 116.81,
+          "sid": 21004,
+          "name": "any"
+        },
+        {
+          "id": 21005,
+          "lat": 38.088999,
+          "lng": 116.584999,
+          "sid": 21005,
+          "name": "any"
+        },
+        {
+          "id": 21006,
+          "lat": 38.737,
+          "lng": 116.119,
+          "sid": 21006,
+          "name": "any"
+        },
+        {
+          "id": 22002,
+          "lat": 39.518,
+          "lng": 116.684,
+          "sid": 22002,
+          "name": "any"
+        },
+        {
+          "id": 22009,
+          "lat": 39.131999,
+          "lng": 116.398,
+          "sid": 22009,
+          "name": "any"
+        },
+        {
+          "id": 23001,
+          "lat": 37.738999,
+          "lng": 115.69,
+          "sid": 23001,
+          "name": "any"
+        },
+        {
+          "id": 23004,
+          "lat": 38.238,
+          "lng": 115.532,
+          "sid": 23004,
+          "name": "any"
+        },
+        {
+          "id": 152001,
+          "lat": 37.465277,
+          "lng": 116.308333,
+          "sid": 152001,
+          "name": "any"
+        }
+      ]
+    },
+    "selection": [],
+    "encoding": {
+      "ringWidth": 20,
+      "source": "parentId",
+      "target": "childId"
+    }
+  },
+  "PieChart": {
+    "data": [
+      {
+        "_key": 1,
+        "name": "<5",
+        "value": 500,
+        "max": 1200
+      },
+      {
+        "_key": 2,
+        "name": "5-10",
+        "value": 1200,
+        "max": 1300
+      },
+      {
+        "_key": 3,
+        "name": "10-15",
+        "value": 450,
+        "max": 700
+      },
+      {
+        "_key": 4,
+        "name": ">15",
+        "value": 900,
+        "max": 600
+      }
+    ],
+    "selection": [
+      {
+        "_key": 3,
+        "name": "10-15",
+        "value": 450,
+        "max": 700
+      },
+      {
+        "_key": 4,
+        "name": ">15",
+        "value": 900,
+        "max": 600
+      }
+    ],
+    "encoding": {
+      "diff": 10,
+      "field": "value",
+      "sortValue": true,
+      "legend": true
+    }
+  },
+  "RadioComponent": {
+    "data": ["A", "B", "C", "D"],
+    "selection": ["B"]
+  },
+  "Scatterplot": {
+    "data": [
+      {
+        "acceleration": 12,
+        "mpg": 18,
+        "car name": "chevrolet chevelle malibu",
+        "cylinders": 8,
+        "weight": 3504,
+        "displacement": 307,
+        "horsepower": 130,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg0"
+      },
+      {
+        "acceleration": 11.5,
+        "mpg": 15,
+        "car name": "buick skylark 320",
+        "cylinders": 8,
+        "weight": 3693,
+        "displacement": 350,
+        "horsepower": 165,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg1"
+      },
+      {
+        "acceleration": 11,
+        "mpg": 18,
+        "car name": "plymouth satellite",
+        "cylinders": 8,
+        "weight": 3436,
+        "displacement": 318,
+        "horsepower": 150,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg2"
+      },
+      {
+        "acceleration": 12,
+        "mpg": 16,
+        "car name": "amc rebel sst",
+        "cylinders": 8,
+        "weight": 3433,
+        "displacement": 304,
+        "horsepower": 150,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg3"
+      },
+      {
+        "acceleration": 10.5,
+        "mpg": 17,
+        "car name": "ford torino",
+        "cylinders": 8,
+        "weight": 3449,
+        "displacement": 302,
+        "horsepower": 140,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg4"
+      },
+      {
+        "acceleration": 10,
+        "mpg": 15,
+        "car name": "ford galaxie 500",
+        "cylinders": 8,
+        "weight": 4341,
+        "displacement": 429,
+        "horsepower": 198,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg5"
+      },
+      {
+        "acceleration": 9,
+        "mpg": 14,
+        "car name": "chevrolet impala",
+        "cylinders": 8,
+        "weight": 4354,
+        "displacement": 454,
+        "horsepower": 220,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg6"
+      },
+      {
+        "acceleration": 8.5,
+        "mpg": 14,
+        "car name": "plymouth fury iii",
+        "cylinders": 8,
+        "weight": 4312,
+        "displacement": 440,
+        "horsepower": 215,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg7"
+      },
+      {
+        "acceleration": 10,
+        "mpg": 14,
+        "car name": "pontiac catalina",
+        "cylinders": 8,
+        "weight": 4425,
+        "displacement": 455,
+        "horsepower": 225,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg8"
+      },
+      {
+        "acceleration": 8.5,
+        "mpg": 15,
+        "car name": "amc ambassador dpl",
+        "cylinders": 8,
+        "weight": 3850,
+        "displacement": 390,
+        "horsepower": 190,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg9"
+      },
+      {
+        "acceleration": 10,
+        "mpg": 15,
+        "car name": "dodge challenger se",
+        "cylinders": 8,
+        "weight": 3563,
+        "displacement": 383,
+        "horsepower": 170,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg10"
+      },
+      {
+        "acceleration": 8,
+        "mpg": 14,
+        "car name": "plymouth cuda 340",
+        "cylinders": 8,
+        "weight": 3609,
+        "displacement": 340,
+        "horsepower": 160,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg11"
+      },
+      {
+        "acceleration": 9.5,
+        "mpg": 15,
+        "car name": "chevrolet monte carlo",
+        "cylinders": 8,
+        "weight": 3761,
+        "displacement": 400,
+        "horsepower": 150,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg12"
+      },
+      {
+        "acceleration": 10,
+        "mpg": 14,
+        "car name": "buick estate wagon (sw)",
+        "cylinders": 8,
+        "weight": 3086,
+        "displacement": 455,
+        "horsepower": 225,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg13"
+      },
+      {
+        "acceleration": 15,
+        "mpg": 24,
+        "car name": "toyota corona mark ii",
+        "cylinders": 4,
+        "weight": 2372,
+        "displacement": 113,
+        "horsepower": 95,
+        "model year": 70,
+        "origin": 3,
+        "_key": "mpg14"
+      },
+      {
+        "acceleration": 15.5,
+        "mpg": 22,
+        "car name": "plymouth duster",
+        "cylinders": 6,
+        "weight": 2833,
+        "displacement": 198,
+        "horsepower": 95,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg15"
+      },
+      {
+        "acceleration": 15.5,
+        "mpg": 18,
+        "car name": "amc hornet",
+        "cylinders": 6,
+        "weight": 2774,
+        "displacement": 199,
+        "horsepower": 97,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg16"
+      },
+      {
+        "acceleration": 16,
+        "mpg": 21,
+        "car name": "ford maverick",
+        "cylinders": 6,
+        "weight": 2587,
+        "displacement": 200,
+        "horsepower": 85,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg17"
+      },
+      {
+        "acceleration": 14.5,
+        "mpg": 27,
+        "car name": "datsun pl510",
+        "cylinders": 4,
+        "weight": 2130,
+        "displacement": 97,
+        "horsepower": 88,
+        "model year": 70,
+        "origin": 3,
+        "_key": "mpg18"
+      },
+      {
+        "acceleration": 20.5,
+        "mpg": 26,
+        "car name": "volkswagen 1131 deluxe sedan",
+        "cylinders": 4,
+        "weight": 1835,
+        "displacement": 97,
+        "horsepower": 46,
+        "model year": 70,
+        "origin": 2,
+        "_key": "mpg19"
+      },
+      {
+        "acceleration": 17.5,
+        "mpg": 25,
+        "car name": "peugeot 504",
+        "cylinders": 4,
+        "weight": 2672,
+        "displacement": 110,
+        "horsepower": 87,
+        "model year": 70,
+        "origin": 2,
+        "_key": "mpg20"
+      },
+      {
+        "acceleration": 14.5,
+        "mpg": 24,
+        "car name": "audi 100 ls",
+        "cylinders": 4,
+        "weight": 2430,
+        "displacement": 107,
+        "horsepower": 90,
+        "model year": 70,
+        "origin": 2,
+        "_key": "mpg21"
+      },
+      {
+        "acceleration": 17.5,
+        "mpg": 25,
+        "car name": "saab 99e",
+        "cylinders": 4,
+        "weight": 2375,
+        "displacement": 104,
+        "horsepower": 95,
+        "model year": 70,
+        "origin": 2,
+        "_key": "mpg22"
+      },
+      {
+        "acceleration": 12.5,
+        "mpg": 26,
+        "car name": "bmw 2002",
+        "cylinders": 4,
+        "weight": 2234,
+        "displacement": 121,
+        "horsepower": 113,
+        "model year": 70,
+        "origin": 2,
+        "_key": "mpg23"
+      },
+      {
+        "acceleration": 15,
+        "mpg": 21,
+        "car name": "amc gremlin",
+        "cylinders": 6,
+        "weight": 2648,
+        "displacement": 199,
+        "horsepower": 90,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg24"
+      },
+      {
+        "acceleration": 14,
+        "mpg": 10,
+        "car name": "ford f250",
+        "cylinders": 8,
+        "weight": 4615,
+        "displacement": 360,
+        "horsepower": 215,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg25"
+      },
+      {
+        "acceleration": 15,
+        "mpg": 10,
+        "car name": "chevy c20",
+        "cylinders": 8,
+        "weight": 4376,
+        "displacement": 307,
+        "horsepower": 200,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg26"
+      },
+      {
+        "acceleration": 13.5,
+        "mpg": 11,
+        "car name": "dodge d200",
+        "cylinders": 8,
+        "weight": 4382,
+        "displacement": 318,
+        "horsepower": 210,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg27"
+      },
+      {
+        "acceleration": 18.5,
+        "mpg": 9,
+        "car name": "hi 1200d",
+        "cylinders": 8,
+        "weight": 4732,
+        "displacement": 304,
+        "horsepower": 193,
+        "model year": 70,
+        "origin": 1,
+        "_key": "mpg28"
+      },
+      {
+        "acceleration": 14.5,
+        "mpg": 27,
+        "car name": "datsun pl510",
+        "cylinders": 4,
+        "weight": 2130,
+        "displacement": 97,
+        "horsepower": 88,
+        "model year": 71,
+        "origin": 3,
+        "_key": "mpg29"
+      }
+    ],
+    "selection": [],
+    "encoding": {
+      "x": "mpg",
+      "y": "weight",
+      "scale": [
+        [10, 70],
+        [10, 60],
+        [0, 100]
+      ],
+      "axis": true,
+      "color": "#FC9231",
+      "selectionColor": "#FC9231",
+      "opacity": "cylinders",
+      "legend": false,
+      "showBrush": true
+    }
+  },
+  "SelectComponent": {
+    "data": ["A", "B", "C", "D", "E"],
+    "selection": ["B"],
+    "encoding": {
+      "size": "large"
+    }
+  },
+  "SliderComponent": {
+    "encoding": {
+      "double": true,
+      "label": "数值范围",
+      "range": [-10, 150],
+      "step": 5,
+      "defaultValue": [10, 50]
+    }
+  },
+  "StackedBar": {
+    "data": [
+      {
+        "label": "No.1",
+        "A": 341,
+        "B": 200,
+        "C": 150,
+        "D": 500
+      },
+      {
+        "label": "No.2",
+        "A": 499,
+        "B": 310,
+        "C": 200,
+        "D": 600
+      },
+      {
+        "label": "No.3",
+        "A": 360,
+        "B": 300,
+        "C": 250,
+        "D": 650
+      },
+      {
+        "label": "No.4",
+        "A": 600,
+        "B": 280,
+        "C": 210,
+        "D": 500
+      },
+      {
+        "label": "No.5",
+        "A": 670,
+        "B": 340,
+        "C": 300,
+        "D": 500
+      },
+      {
+        "label": "No.6",
+        "A": 350,
+        "B": 400,
+        "C": 400,
+        "D": 600
+      }
+    ],
+    "selection": [],
+    "encoding": {
+      "fields": ["A", "B", "C", "D"],
+      "x": "label",
+      "y": "values",
+      "color": ["#e41a1c", "#377eb8", "#4daf4a", "#984ea3"],
+      "bottomEdge": "bottom",
+      "showAxes": true,
+      "compact": false,
+      "showLegend": true,
+      "showBrush": true
+    }
+  },
+  "StackedBarGrouped": {
+    "data": [
+      [
+        {
+          "label": "No.1",
+          "A": 341,
+          "B": 200,
+          "C": 150,
+          "D": 500
+        },
+        {
+          "label": "No.2",
+          "A": 499,
+          "B": 310,
+          "C": 200,
+          "D": 600
+        },
+        {
+          "label": "No.3",
+          "A": 360,
+          "B": 300,
+          "C": 250,
+          "D": 650
+        },
+        {
+          "label": "No.4",
+          "A": 600,
+          "B": 280,
+          "C": 210,
+          "D": 500
+        },
+        {
+          "label": "No.5",
+          "A": 670,
+          "B": 340,
+          "C": 300,
+          "D": 500
+        },
+        {
+          "label": "No.6",
+          "A": 350,
+          "B": 400,
+          "C": 400,
+          "D": 600
+        }
+      ],
+      [
+        {
+          "label": "No.7",
+          "A": 200,
+          "B": 150,
+          "C": 341,
+          "D": 400
+        },
+        {
+          "label": "No.8",
+          "A": 400,
+          "B": 600,
+          "C": 200,
+          "D": 310
+        },
+        {
+          "label": "No.9",
+          "A": 250,
+          "B": 300,
+          "C": 360,
+          "D": 550
+        },
+        {
+          "label": "No.10",
+          "A": 600,
+          "B": 500,
+          "C": 250,
+          "D": 280
+        },
+        {
+          "label": "No.11",
+          "A": 370,
+          "B": 340,
+          "C": 500,
+          "D": 400
+        },
+        {
+          "label": "No.12",
+          "A": 350,
+          "B": 300,
+          "C": 400,
+          "D": 360
+        }
+      ],
+      [
+        {
+          "label": "No.13",
+          "A": 141,
+          "B": 200,
+          "C": 180,
+          "D": 400
+        },
+        {
+          "label": "No.14",
+          "A": 310,
+          "B": 420,
+          "C": 200,
+          "D": 480
+        },
+        {
+          "label": "No.15",
+          "A": 360,
+          "B": 220,
+          "C": 210,
+          "D": 550
+        },
+        {
+          "label": "No.16",
+          "A": 400,
+          "B": 280,
+          "C": 500,
+          "D": 230
+        },
+        {
+          "label": "No.17",
+          "A": 570,
+          "B": 240,
+          "C": 300,
+          "D": 550
+        },
+        {
+          "label": "No.18",
+          "A": 400,
+          "B": 400,
+          "C": 300,
+          "D": 600
+        }
+      ],
+      [
+        {
+          "label": "No.19",
+          "A": 141,
+          "B": 200,
+          "C": 180,
+          "D": 400
+        },
+        {
+          "label": "No.20",
+          "A": 310,
+          "B": 420,
+          "C": 200,
+          "D": 480
+        },
+        {
+          "label": "No.21",
+          "A": 360,
+          "B": 220,
+          "C": 210,
+          "D": 550
+        },
+        {
+          "label": "No.22",
+          "A": 400,
+          "B": 280,
+          "C": 500,
+          "D": 230
+        },
+        {
+          "label": "No.23",
+          "A": 570,
+          "B": 240,
+          "C": 300,
+          "D": 550
+        },
+        {
+          "label": "No.24",
+          "A": 400,
+          "B": 400,
+          "C": 300,
+          "D": 600
+        }
+      ],
+      [
+        {
+          "label": "No.25",
+          "A": 141,
+          "B": 200,
+          "C": 180,
+          "D": 400
+        },
+        {
+          "label": "No.26",
+          "A": 310,
+          "B": 420,
+          "C": 200,
+          "D": 480
+        },
+        {
+          "label": "No.27",
+          "A": 360,
+          "B": 220,
+          "C": 210,
+          "D": 550
+        },
+        {
+          "label": "No.28",
+          "A": 400,
+          "B": 280,
+          "C": 500,
+          "D": 230
+        },
+        {
+          "label": "No.29",
+          "A": 570,
+          "B": 240,
+          "C": 300,
+          "D": 550
+        },
+        {
+          "label": "No.30",
+          "A": 400,
+          "B": 400,
+          "C": 300,
+          "D": 600
+        }
+      ],
+      [
+        {
+          "label": "No.31",
+          "A": 141,
+          "B": 200,
+          "C": 180,
+          "D": 400
+        },
+        {
+          "label": "No.32",
+          "A": 310,
+          "B": 420,
+          "C": 200,
+          "D": 480
+        },
+        {
+          "label": "No.33",
+          "A": 360,
+          "B": 220,
+          "C": 210,
+          "D": 550
+        },
+        {
+          "label": "No.34",
+          "A": 400,
+          "B": 280,
+          "C": 500,
+          "D": 230
+        },
+        {
+          "label": "No.35",
+          "A": 570,
+          "B": 240,
+          "C": 300,
+          "D": 550
+        },
+        {
+          "label": "No.36",
+          "A": 400,
+          "B": 400,
+          "C": 300,
+          "D": 600
+        }
+      ],
+      [
+        {
+          "label": "No.37",
+          "A": 200,
+          "B": 150,
+          "C": 341,
+          "D": 400
+        },
+        {
+          "label": "No.38",
+          "A": 400,
+          "B": 600,
+          "C": 200,
+          "D": 310
+        },
+        {
+          "label": "No.39",
+          "A": 250,
+          "B": 300,
+          "C": 360,
+          "D": 550
+        },
+        {
+          "label": "No.40",
+          "A": 600,
+          "B": 500,
+          "C": 250,
+          "D": 280
+        },
+        {
+          "label": "No.41",
+          "A": 370,
+          "B": 340,
+          "C": 500,
+          "D": 400
+        },
+        {
+          "label": "No.42",
+          "A": 350,
+          "B": 300,
+          "C": 400,
+          "D": 360
+        }
+      ],
+      [
+        {
+          "label": "No.43",
+          "A": 200,
+          "B": 150,
+          "C": 341,
+          "D": 400
+        },
+        {
+          "label": "No.44",
+          "A": 400,
+          "B": 600,
+          "C": 200,
+          "D": 310
+        },
+        {
+          "label": "No.45",
+          "A": 250,
+          "B": 300,
+          "C": 360,
+          "D": 550
+        },
+        {
+          "label": "No.46",
+          "A": 600,
+          "B": 500,
+          "C": 250,
+          "D": 280
+        },
+        {
+          "label": "No.47",
+          "A": 370,
+          "B": 340,
+          "C": 500,
+          "D": 400
+        },
+        {
+          "label": "No.48",
+          "A": 350,
+          "B": 300,
+          "C": 400,
+          "D": 360
+        }
+      ],
+      [
+        {
+          "label": "No.49",
+          "A": 200,
+          "B": 150,
+          "C": 341,
+          "D": 400
+        },
+        {
+          "label": "No.50",
+          "A": 400,
+          "B": 600,
+          "C": 200,
+          "D": 310
+        },
+        {
+          "label": "No.51",
+          "A": 250,
+          "B": 300,
+          "C": 360,
+          "D": 550
+        },
+        {
+          "label": "No.52",
+          "A": 600,
+          "B": 500,
+          "C": 250,
+          "D": 280
+        },
+        {
+          "label": "No.53",
+          "A": 370,
+          "B": 340,
+          "C": 500,
+          "D": 400
+        },
+        {
+          "label": "No.54",
+          "A": 350,
+          "B": 300,
+          "C": 400,
+          "D": 360
+        }
+      ],
+      [
+        {
+          "label": "No.55",
+          "A": 200,
+          "B": 150,
+          "C": 341,
+          "D": 400
+        },
+        {
+          "label": "No.56",
+          "A": 400,
+          "B": 600,
+          "C": 200,
+          "D": 310
+        },
+        {
+          "label": "No.57",
+          "A": 250,
+          "B": 300,
+          "C": 360,
+          "D": 550
+        },
+        {
+          "label": "No.58",
+          "A": 600,
+          "B": 500,
+          "C": 250,
+          "D": 280
+        },
+        {
+          "label": "No.59",
+          "A": 370,
+          "B": 340,
+          "C": 500,
+          "D": 400
+        },
+        {
+          "label": "No.60",
+          "A": 350,
+          "B": 300,
+          "C": 400,
+          "D": 360
+        }
+      ]
+    ],
+    "selection": [],
+    "encoding": {
+      "fields": ["A", "B", "C", "D"],
+      "x": "label",
+      "y": "values",
+      "color": ["#e41a1c", "#377eb8", "#4daf4a", "#984ea3"],
+      "bottomEdge": "bottom",
+      "showAxes": true,
+      "compact": false,
+      "showLegend": true,
+      "showBrush": true
+    }
+  },
+  "TableView": {
+    "data": [],
+    "selection": [],
+    "encoding": {}
+  }
+}
