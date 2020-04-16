@@ -111,8 +111,9 @@ export default {
           type="link"
           icon="border-outer"
           @click="showGridLines = !showGridLines"
-          >{{ showGridLines ? '隐藏框线' : '显示框线' }}</a-button
         >
+          {{ showGridLines ? '隐藏框线' : '显示框线' }}
+        </a-button>
       </span>
       <span class="actions">
         <slot name="actions" />

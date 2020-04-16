@@ -5,9 +5,9 @@ import defaultEncoding from '@/assets/defaultEncoding.json'
 export default Vue.extend({
   name: 'ComponentNode',
   props: {
-    component: Object,
-    getDataByDataName: Function,
-    mode: Number,
+    component: { type: Object, default: undefined },
+    getDataByDataName: { type: Function, default: () => function () {} },
+    mode: { type: Number, default: 0 },
   },
   data() {
     return {

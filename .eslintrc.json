@@ -34,7 +34,8 @@
         "svg": "any",
         "math": "any"
       }
-    ]
+    ],
+    "vue/no-v-html": "off"
   },
   "ignorePatterns": ["node_modules/", "dist/"],
   "env": {
